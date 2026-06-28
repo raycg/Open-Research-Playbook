@@ -107,3 +107,13 @@ The Open Research Playbook aims to help every laboratory build research that is:
 - Easy to continue
 
 Our long-term vision is to enable the next researcher through reproducible research, effective knowledge transfer, and AI-assisted collaboration.
+
+## Release History
+
+### v1.0 (Draft)
+The first complete version includes:
+- Research Philosophy
+- Research Playbook
+- Getting Started
+- Knowledge Transfer
+- Core Templates
