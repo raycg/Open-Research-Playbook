@@ -83,21 +83,21 @@ Instead, understand the core philosophy:
 
 ---
 
+
 ### Step 2 — Receive Your Research Assignment
 
-Meet your advisor.
+Meet your advisor/mentor.
 
 Complete:
-
-* [Appendix A — Research Assignment](appendix/A-research-assignment.md)
+- [Appendix A — Research Assignment](appendix/A-research-assignment.md)
 
 After the meeting, you should know:
+- Your research topic
+- Your short-term goal
+- Your first reproducible experiment
+- The repositories and documents you should read
 
-* Your research topic
-* Your advisor
-* Your short-term goal
-* Your first reproducible experiment
-* The repositories and documents you should read
+Do not start implementation before your research assignment is clear.
 
 ---
 
