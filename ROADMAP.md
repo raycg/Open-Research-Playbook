@@ -29,7 +29,7 @@
 
 ### Backlog
 
-#### ATemplates
+#### Templates
 
 - ✅ [A-research-assignment.md](templates/A-research-assignment.md)
 - [ ] B-knowledge-transfer-checklist.md
