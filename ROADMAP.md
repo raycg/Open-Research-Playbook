@@ -35,7 +35,7 @@
 * [ ] B-project-handover-checklist.md
 * [ ] C-project-handover-acceptance.md
 * [ ] D-advisor-acceptance.md
-* [ ] E-daily-self-review-prompt.md
+* ✅  [E-daily-self-review-prompt.md](appendix/E-daily-self-review-prompt.md)
 
 ### Examples
 
