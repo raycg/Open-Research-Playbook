@@ -1,3 +1,4 @@
+````markdown
 ## Knowledge Transfer
 
 > **How do we transfer research knowledge?**
@@ -21,6 +22,7 @@ When a researcher graduates or leaves a laboratory, the research should continue
 The goal of knowledge transfer is therefore not simply to deliver files or explain code.
 
 The goal of knowledge transfer is to enable the next researcher to:
+
 - Understand the research
 - Reproduce the results
 - Continue the work
@@ -38,7 +40,8 @@ graph LR
     D --> V
     V --> T
     T --> N
-```    
+````
+
 **Knowledge transfer connects one researcher to the next and enables research continuity.**
 
 Research creates knowledge.
@@ -71,7 +74,7 @@ Knowledge transfer is complete only after another researcher successfully reprod
 
 ---
 
-#### Principle 3. Issues improve research quality.
+#### Principle 3: Issues improve research quality.
 
 The **purpose of verification** is not to prove that the previous researcher was wrong.
 
@@ -81,7 +84,7 @@ Every issue is an opportunity to improve the research.
 
 ---
 
-#### Principle 4. Responsibility is transferred through verification.
+#### Principle 4: Responsibility is transferred through verification.
 
 Successful verification marks the transfer of responsibility from the outgoing researcher to the incoming researcher.
 
@@ -91,7 +94,7 @@ Successful verification does.
 
 ---
 
-#### Principle 5 Knowledge transfer enables continuity.
+#### Principle 5: Knowledge transfer enables continuity.
 
 Research should not stop when people leave.
 
@@ -134,11 +137,12 @@ A successful transfer is measured by whether the next researcher can continue th
 #### Outgoing Researcher
 
 The outgoing researcher is responsible for:
-- Organizing research materials
-- Updating documentation
-- Explaining the research design
-- Providing reproducible experiment procedures
-- Answering reasonable questions during the transfer period
+
+* Organizing research materials
+* Updating documentation
+* Explaining the research design
+* Providing reproducible experiment procedures
+* Answering reasonable questions during the transfer period
 
 The outgoing researcher is **not** expected to provide unlimited one-on-one training after leaving the laboratory.
 
@@ -149,11 +153,12 @@ The outgoing researcher should leave the project in a state that another researc
 #### Incoming Researcher
 
 The incoming researcher is responsible for:
-- Studying the documentation
-- Reproducing the research
-- Recording verification results
-- Reporting reproducible issues
-- Updating documentation when necessary
+
+* Studying the documentation
+* Reproducing the research
+* Recording verification results
+* Reporting reproducible issues
+* Updating documentation when necessary
 
 **Verification is the responsibility of the incoming researcher.**
 
@@ -164,30 +169,34 @@ The incoming researcher should leave the project in a better state than it was r
 #### Advisor
 
 The advisor is responsible for:
-- Assigning the transfer
-- Reviewing unresolved issues
-- Confirming successful verification
-- Completing the final acceptance
+
+* Assigning the transfer
+* Reviewing unresolved issues
+* Confirming successful verification
+* Completing the final acceptance
 
 ---
 
 ### Verification
 
 Verification answers one question:
+
 > **Can another researcher continue this work independently?**
 
 Verification should include:
-- Documentation review
-- Environment setup
-- Experiment reproduction
-- Result comparison
-- Issue reporting
+
+* Documentation review
+* Environment setup
+* Experiment reproduction
+* Result comparison
+* Issue reporting
 
 Verification is considered successful when:
-- The documented workflow can be reproduced.
-- The expected results can be obtained.
-- Remaining issues are documented.
-- The incoming researcher understands how to continue the work.
+
+* The documented workflow can be reproduced.
+* The expected results can be obtained.
+* Remaining issues are documented.
+* The incoming researcher understands how to continue the work.
 
 Verification is not an examination.
 
@@ -200,11 +209,12 @@ Verification is a learning process.
 ### Acceptance
 
 Knowledge transfer is complete only when:
-- [ ] Documentation is complete.
-- [ ] Verification has passed.
-- [ ] Critical issues have been resolved or reported to the advisor.
-- [ ] Knowledge continuity established.
-- [ ] The advisor accepts the transfer.
+
+* [ ] Documentation is complete.
+* [ ] Verification has passed.
+* [ ] Critical issues have been resolved or reported to the advisor.
+* [ ] Knowledge continuity is established.
+* [ ] The advisor accepts the transfer.
 
 At this point, responsibility for the research is transferred to the incoming researcher.
 
@@ -223,11 +233,12 @@ Knowledge transfer succeeds only when every participant contributes to research 
 ### Supporting Templates
 
 The following templates implement the workflow described in this document.
-- Appendix A — Research Assignment
-- Appendix B — Knowledge Transfer Checklist
-- Appendix C — Verification Report
-- Appendix D — Acceptance Form
-- Appendix E — AI Daily Self-review Prompt
+
+* [Appendix A — Research Assignment](appendix/A-research-assignment.md)
+* [Appendix B — Knowledge Transfer Checklist](appendix/B-knowledge-transfer-checklist.md)
+* [Appendix C — Verification Report](appendix/C-verification-report.md)
+* [Appendix D — Acceptance Form](appendix/D-acceptance-form.md)
+* [Appendix E — AI Daily Self-review Prompt](appendix/E-daily-self-review-prompt.md)
 
 ---
 
@@ -239,4 +250,5 @@ The following templates implement the workflow described in this document.
 
 **Every successful transfer enables the next researcher.**
 
-
+```
+```
