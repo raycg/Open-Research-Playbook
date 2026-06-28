@@ -3,10 +3,8 @@
 > **How do we transfer research knowledge?**
 >
 > This document describes the principles, workflow, responsibilities, and verification process for transferring research knowledge.
->
-> Knowledge transfer is not the end of research.
->
-> It is the beginning of the next research.
+
+Knowledge transfer is the beginning of the next research.
 
 ---
 
