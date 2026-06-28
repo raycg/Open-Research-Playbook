@@ -97,12 +97,13 @@ Knowledge transfer enables future research.
 
 We recommend reading the documents in the following order:
 
-1. Design Principles
-2. Research Philosophy
-3. Research Playbook
-4. Knowledge Transfer
-5. Daily Report
-6. AI Research Coach
+1. [Design Principles](00-design-principles.md)
+2. [Research Philosophy](01-research-philosophy.md)
+3. [Research Playbook](02-research-playbook.md)
+4. [Knowledge Transfer](10-knowledge-transfer.md)
+5. [Getting Started](03-getting-started.md)
+6. [Daily Report]()
+7. [AI Research Coach]()
 
 ---
 
@@ -123,11 +124,20 @@ We welcome ideas, discussions, issues, and pull requests from researchers, stude
 ## Our Vision
 
 We hope every laboratory can build research that is:
-
-* Easy to understand
-* Easy to reproduce
-* Easy to transfer
-* Easy to continue
+- Easy to understand
+- Easy to reproduce
+- Easy to transfer
+- Easy to continue
 
 Because the true value of research is not only what we discover today, 
 but also what the next researcher can build tomorrow.
+
+## Release History
+
+### v1.0 (Draft)
+The first complete version includes:
+- Research Philosophy
+- Research Playbook
+- Getting Started
+- Knowledge Transfer
+- Core Templates
