@@ -1,4 +1,3 @@
-````markdown
 ## Knowledge Transfer
 
 > **How do we transfer research knowledge?**
@@ -249,6 +248,3 @@ The following templates implement the workflow described in this document.
 **Research continues when knowledge is transferred.**
 
 **Every successful transfer enables the next researcher.**
-
-```
-```
