@@ -139,6 +139,7 @@ Readers should never need to search for a document that has already been mention
 
 Version history should reflect continuous improvement rather than perfection.
 
+**Every revision should make the repository easier to understand, navigate, and improve.**
 
 ---
 
