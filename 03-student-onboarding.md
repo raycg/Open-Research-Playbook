@@ -29,6 +29,8 @@ The goal of onboarding is simple:
 
 > **Help the new researcher start correctly and avoid wasting time in the wrong direction.**
 
+The purpose of onboarding is not to teach everything. It is to help every new researcher achieve their first successful week in the laboratory.
+
 ---
 
 ### Onboarding Philosophy
@@ -67,6 +69,29 @@ graph LR
     V --> DR
     DR --> N
 ```
+
+### First Week Milestones
+
+The goal of onboarding is **not** to start new research immediately.
+
+The goal is to understand the existing research and become productive as quickly as possible.
+
+By the end of the first week, every new researcher should be able to complete the following milestones.
+
+| Milestone                                 | Expected Evidence                            |
+| ----------------------------------------- | -------------------------------------------- |
+| Read the Open Research Playbook           | Able to explain the four research principles |
+| Complete the Research Assignment          | Approved Appendix A                          |
+| Read the assigned research materials      | Thesis, paper, defense slides, README        |
+| Clone the laboratory GitHub repository    | Repository URL and latest commit             |
+| Access the laboratory pCloud folder       | Shared folder link                           |
+| Access Overleaf project                   | Paper / Thesis link                          |
+| Reproduce the minimum experimental result | Logs, screenshots, or figures                |
+| Submit daily plans and daily reports      | Daily reports reviewed by AI                 |
+| Meet the advisor                          | Research direction confirmed                 |
+
+A new researcher is considered successfully onboarded when these milestones have been completed.
+
 
 ### Step 1: Read the Foundation Documents
 
@@ -114,11 +139,24 @@ Important materials may include:
 - Experimental results
 - Logs, figures, and screenshots
 
+```mermaid
+graph LR
+    RA[Research Assignment] --> DS[Defense Slides 30m]
+    DS --> P[Paper 1h]
+    P --> R[README 30m]
+    R --> DD[Design Documents]
+    DD --> SC[Source Code]
+    SC --> ER[Experiment Results]
+    ER --> T[Thesis Reference]
+```
+
 For international researchers, English materials should be prioritized whenever possible.
 
 If the thesis is written in Chinese, use supporting materials such as English slides, papers, diagrams, README files, and AI-assisted summaries to understand the work.
 
-### Step 4: Reproduce Before Extending
+
+
+### Step 4: Reproduce the Minimum Reproducible Result (MRR)
 
 Before proposing new ideas or writing new code, first reproduce the minimum existing result.
 
@@ -225,19 +263,11 @@ Useful notes include:
 Every new researcher should leave the project easier to understand than when they received it.
 
 ### Onboarding Checklist
-| Item                                    | Status |
-| --------------------------------------- | ------ |
-| Read README                             | ☐      |
-| Read Research Philosophy                | ☐      |
-| Read Research Playbook                  | ☐      |
-| Read Knowledge Transfer                 | ☐      |
-| Complete Research Assignment            | ☐      |
-| Identify first reading materials        | ☐      |
-| Identify minimum reproducibility target | ☐      |
-| Submit first daily plan                 | ☐      |
-| Submit first daily report               | ☐      |
-| Use AI self-review before submission    | ☐      |
-| Prepare evidence-based questions        | ☐      |
+- [ ] Explain the research in 5 minutes.
+- [ ] Reproduce the minimum result.
+- [ ] Ask one evidence-based question.
+- [ ] Submit one AI-reviewed daily report.
+- [ ] Improve one document.
 
 ## Final Message
 
