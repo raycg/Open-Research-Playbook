@@ -131,13 +131,3 @@ We hope every laboratory can build research that is:
 
 Because the true value of research is not only what we discover today, 
 but also what the next researcher can build tomorrow.
-
-## Release History
-
-### v1.0 (Draft)
-The first complete version includes:
-- Research Philosophy
-- Research Playbook
-- Getting Started
-- Knowledge Transfer
-- Core Templates
