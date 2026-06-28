@@ -1,12 +1,12 @@
-# Open Research Playbook Roadmap
+## Open Research Playbook Roadmap
 
 > This document describes the development status and future roadmap of the Open Research Playbook.
 
 ---
 
-# Current Status
+## Current Status
 
-## Foundation
+### Foundation
 
 | Status | Document                  |
 | ------ | ------------------------- |
@@ -17,7 +17,7 @@
 
 ---
 
-## In Progress
+### In Progress
 
 | Status | Document                |
 | ------ | ----------------------- |
@@ -27,9 +27,9 @@
 
 ---
 
-## Backlog
+### Backlog
 
-### Appendix
+#### Appendix
 
 * [ ] A-project-assignment.md
 * [ ] B-project-handover-checklist.md
@@ -37,7 +37,7 @@
 * [ ] D-advisor-acceptance.md
 * ✅  [E-daily-self-review-prompt.md](appendix/E-daily-self-review-prompt.md)
 
-### Examples
+#### Examples
 
 * [ ] example-design-document.md
 * [ ] example-daily-report.md
@@ -45,15 +45,15 @@
 
 ---
 
-# Development Milestones
+## Development Milestones
 
-## M1 — Graduate Project Handover
+### M1 — Graduate Project Handover
 
-### Goal
+#### Goal
 
 Enable graduating MSc students to complete project handover smoothly.
 
-### Deliverables
+#### Deliverables
 
 * Foundation documents
 * Project Ownership
@@ -61,7 +61,7 @@ Enable graduating MSc students to complete project handover smoothly.
 * Daily Report
 * Appendix A–E
 
-### Definition of Done
+#### Definition of Done
 
 * All graduating students complete project handover.
 * Incoming students complete verification.
@@ -70,13 +70,13 @@ Enable graduating MSc students to complete project handover smoothly.
 
 ---
 
-## M2 — AI-assisted Research Workflow
+### M2 — AI-assisted Research Workflow
 
-### Goal
+#### Goal
 
 Use AI to improve research quality while preserving independent thinking.
 
-### Deliverables
+#### Deliverables
 
 * AI Research Coach
 * AI Self Review
@@ -85,13 +85,13 @@ Use AI to improve research quality while preserving independent thinking.
 
 ---
 
-## M3 — Research Contribution System
+### M3 — Research Contribution System
 
-### Goal
+#### Goal
 
 Establish a fair, transparent, and reproducible contribution system.
 
-### Deliverables
+#### Deliverables
 
 * Contribution Categories
 * Contribution Portfolio
@@ -100,7 +100,7 @@ Establish a fair, transparent, and reproducible contribution system.
 
 ---
 
-# Long-term Vision
+## Long-term Vision
 
 Build an open, community-driven playbook that helps researchers:
 
