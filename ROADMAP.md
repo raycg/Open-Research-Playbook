@@ -1,108 +1,112 @@
-## Open Research Playbook Roadmap
+# Open Research Playbook Roadmap
 
-### Repository Structure
-
-
-| File | Question | Audience |
-|------|----------|----------|
-| README.md | What is Open Research Playbook? | Everyone |
-| 00-design-principles.md | How should this repository be written? | Contributors |
-| 01-research-philosophy.md | Why do we conduct research this way? | Everyone |
-| 02-research-playbook.md | How do we conduct research? | Students |
-| 03-project-ownership.md | Who owns a research project? | Students & Advisors |
-| 04-project-handover.md | How do we hand over a research project? | Outgoing & Incoming Students |
-| 05-ai-research-coach.md | How should AI assist research? | Everyone |
-| 06-research-contribution-system.md | How do we recognize research contributions? | Everyone |
+> This document describes the development status and future roadmap of the Open Research Playbook.
 
 ---
+
+# Current Status
+
+## Foundation
+
+| Status | Document                  |
+| ------ | ------------------------- |
+| ✅      | [README.md]()                 |
+| ✅      | 00-design-principles.md   |
+| ✅      | 01-research-philosophy.md |
+| ✅      | 02-research-playbook.md   |
+
+---
+
+## In Progress
+
+| Status | Document                |
+| ------ | ----------------------- |
+| 🚧     | 10-project-ownership.md |
+| 🚧     | 11-project-handover.md  |
+| 🚧     | 12-daily-report.md      |
+
+---
+
+## Backlog
 
 ### Appendix
 
-| File | Question | Audience |
-|------|----------|----------|
-| Appendix A | What should I prepare before leaving? | Outgoing Student |
-| Appendix B | What exactly should I hand over? | Outgoing Student |
-| Appendix C | What responsibilities am I accepting? | Incoming Student |
-| Appendix D | When is handover officially complete? | Advisor |
+* [ ] A-project-assignment.md
+* [ ] B-project-handover-checklist.md
+* [ ] C-project-handover-acceptance.md
+* [ ] D-advisor-acceptance.md
+* [ ] E-daily-self-review-prompt.md
+
+### Examples
+
+* [ ] example-design-document.md
+* [ ] example-daily-report.md
+* [ ] example-project-handover.md
 
 ---
 
-# Development Roadmap
+# Development Milestones
 
-## Milestone M1 — Graduate Project Handover (Current)
+## M1 — Graduate Project Handover
 
 ### Goal
 
-Enable MSc students to complete project handover smoothly.
+Enable graduating MSc students to complete project handover smoothly.
 
 ### Deliverables
 
-- README
-- Design Principles
-- Research Philosophy
-- Project Handover
-- Appendix A–D
+* Foundation documents
+* Project Ownership
+* Project Handover
+* Daily Report
+* Appendix A–E
 
 ### Definition of Done
 
-- All graduating students complete project handover.
-- Incoming students complete verification.
-- Advisors complete acceptance.
-- Feedback is collected for future improvement.
+* All graduating students complete project handover.
+* Incoming students complete verification.
+* Advisors complete acceptance.
+* Feedback is collected and incorporated into the next revision.
 
 ---
 
-## Milestone M2 — Project Ownership
+## M2 — AI-assisted Research Workflow
 
 ### Goal
 
-Establish a clear ownership model for research projects.
+Use AI to improve research quality while preserving independent thinking.
 
 ### Deliverables
 
-- Project Assignment
-- Project Ownership
-- Verification Workflow
-- Issue Tracking
-- Ownership Transfer
+* AI Research Coach
+* AI Self Review
+* AI-assisted Documentation Review
+* AI-assisted Issue Review
 
 ---
 
-## Milestone M3 — AI Research Coach
+## M3 — Research Contribution System
 
 ### Goal
 
-Use AI to improve research quality rather than replace researchers.
+Establish a fair, transparent, and reproducible contribution system.
 
 ### Deliverables
 
-- AI Research Coach
-- AI Self Review
-- AI-assisted Documentation Review
-- AI-assisted Issue Review
+* Contribution Categories
+* Contribution Portfolio
+* Recognition Guidelines
+* Integration with Project Ownership
 
 ---
 
-## Milestone M4 — Research Contribution System
-
-### Goal
-
-Recognize and encourage research contributions beyond publications.
-
-### Deliverables
-
-- Contribution Categories
-- Contribution Portfolio
-- Recognition Program
-- Contribution Guidelines
-
----
-
-## Long-term Vision
+# Long-term Vision
 
 Build an open, community-driven playbook that helps researchers:
 
-- Think independently
-- Verify rigorously
-- Document clearly
-- Transfer knowledge effectively and enables laboratories to continuously improve through reproducible research, effective knowledge transfer, and AI-assisted collaboration.
+* Think independently
+* Verify rigorously
+* Document clearly
+* Transfer knowledge effectively
+
+Our vision is to help laboratories continuously improve through reproducible research, effective knowledge transfer, and AI-assisted collaboration.
