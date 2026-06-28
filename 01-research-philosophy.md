@@ -14,10 +14,10 @@ Research is not complete when a paper is published.
 
 Research is complete only when another researcher can:
 
-* understand it,
-* reproduce it,
-* improve it,
-* and continue it.
+- understand it,
+- reproduce it,
+- improve it,
+- and continue it.
 
 Our goal is not only to produce graduates.
 
@@ -37,7 +37,7 @@ Verify
 Document
    ↓
 Transfer
-```
+````
 
 These four principles apply to every research activity, including:
 
@@ -112,23 +112,29 @@ Knowledge transfer is therefore part of research rather than an additional task.
 
 ## Seven Rules
 
-### Rule 1: Ownership begins with verification.
+### Rule 1
+
+**Ownership begins with verification.**
 
 完成驗證，才代表正式接手。
 
 ---
 
-### Rule 2: Responsibility follows ownership.
+### Rule 2
+
+**Responsibility follows ownership.**
 
 承接專案，即承接責任。
 
 ---
 
-### Rule 3: Think first. Verify second. Ask AI third. Collaborate last.
+### Rule 3
+
+**Think first. Verify second. Ask AI third. Collaborate last.**
 
 先思考、再驗證、善用 AI、最後再與他人合作。
 
-Before asking others:
+Before asking others,
 
 * Think.
 * Verify.
@@ -139,7 +145,9 @@ Then ask a high-quality question.
 
 ---
 
-### Rule 4: Handover is not training.
+### Rule 4
+
+**Handover is not training.**
 
 The purpose of handover is to establish reproducibility rather than provide unlimited one-on-one training.
 
@@ -147,7 +155,9 @@ The purpose of handover is to establish reproducibility rather than provide unli
 
 ---
 
-### Rule 5: Issues must be reproducible.
+### Rule 5
+
+**Issues must be reproducible.**
 
 Every issue should include:
 
@@ -160,7 +170,9 @@ A problem without evidence is difficult to investigate.
 
 ---
 
-### Rule 6: Acceptance completes handover.
+### Rule 6
+
+**Acceptance completes handover.**
 
 A project handover is complete only after successful verification and acceptance.
 
@@ -168,7 +180,9 @@ A project handover is complete only after successful verification and acceptance
 
 ---
 
-### Rule 7: If it cannot be reproduced, it has never been completed.
+### Rule 7
+
+**If it cannot be reproduced, it has never been completed.**
 
 無法重現的成果，不視為完成。
 
@@ -206,14 +220,12 @@ Impact lasts only when knowledge can be transferred.
 
 ---
 
-🧠 **Think**
+🧠 Think
 
-🔬 **Verify**
+🔬 Verify
 
-📝 **Document**
+📝 Document
 
-🤝 **Transfer**
+🤝 Transfer
 
-> **Research is not complete until someone else can continue it.**
->
-> **只有當下一位研究者能夠接續你的工作時，研究才真正完成。**
+> **Research is complete only when it can be reproduced and transferred.**
