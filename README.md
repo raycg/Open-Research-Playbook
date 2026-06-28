@@ -1,17 +1,19 @@
-# Open-Research-Playbook
-An engineering handbook for reproducible, transferable and AI-assisted research.
+# Open Research Playbook
 
-**We don't just build research. We build research that others can understand, reproduce, and continue.**
+> **An engineering handbook for reproducible research, knowledge transfer, and AI-assisted research.**
 
-**我們不只是完成研究，更致力於建立能被他人理解、重現與延續的研究。**
+---
 
-**A good laboratory does not avoid problems. It learns from them and continuously improves.**
+🧠 Think
 
-**一個好的實驗室，不是沒有問題，而是願意從每一次問題中學習，並持續改善。**
+🔬 Verify
 
-This repository is designed for
-- Research laboratories
-- Graduate students
-- Research assistants
-- AI research coaches
-- Open-source research projects
+📝 Document
+
+🤝 Transfer
+
+> **Research is complete only when it can be reproduced and transferred.**
+
+---
+
+*A living playbook for research laboratories, graduate students, and AI research coaches.*
