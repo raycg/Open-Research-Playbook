@@ -105,7 +105,7 @@ We recommend reading the documents in the following order:
 
 ## Roadmap
 
-Project progress and future milestones are maintained in **[ROADMAP.md](ROADMAP.md)**.
+Project progress and future milestones are maintained in [ROADMAP.md](ROADMAP.md).
 
 ---
 
