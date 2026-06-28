@@ -11,9 +11,9 @@
 | Status | Document                  |
 | ------ | ------------------------- |
 | ✅      | [README.md](README.md)  |
-| ✅      | 00-design-principles.md   |
-| ✅      | 01-research-philosophy.md |
-| ✅      | 02-research-playbook.md   |
+| ✅      | [00-design-principles.md](00-design-principles.md)   |
+| ✅      | [01-research-philosophy.md](01-research-philosophy.md) |
+| ✅      | [02-research-playbook.md](02-research-playbook.md)   |
 
 ---
 
