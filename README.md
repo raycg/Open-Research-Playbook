@@ -53,8 +53,9 @@ Documentation preserves knowledge.
 
 Verification validates knowledge.
 
-Knowledge transfer enables continuity.
+Knowledge transfer enables future research.
 
+> **Enable the next researcher.**
 > **Research is not complete until someone else can continue it.**
 
 ---
