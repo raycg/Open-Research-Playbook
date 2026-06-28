@@ -5,7 +5,7 @@
 
 ---
 
-## Why this document?
+## Why?
 
 A playbook should not become another SOP.
 
