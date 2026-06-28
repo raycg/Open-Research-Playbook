@@ -32,7 +32,7 @@
 
 #### ATemplates
 
-- [ ] A-project-assignment.md
+- [ ] A-research-assignment.md
 - [ ] B-knowledge-transfer-checklist.md
 - [ ] C-verification-report.md
 - [ ] D-acceptance-form.md
