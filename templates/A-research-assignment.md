@@ -17,7 +17,6 @@ Research assignment is not about ownership.
 It is about responsibility.
 
 A clear assignment helps everyone understand:
-
 - What research is being conducted.
 - Who is responsible for the research.
 - What outcomes are expected.
@@ -42,7 +41,7 @@ Research assignment is therefore the first step of the research lifecycle.
 
 ### Research Scope
 
-Describe the scope of this research, which include:
+Describe the scope of this research, including:
 - Research objectives
 - Background
 - System boundaries
