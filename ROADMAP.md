@@ -15,14 +15,13 @@
 | ✅      | [00-design-principles.md](00-design-principles.md)   |
 | ✅      | [01-research-philosophy.md](01-research-philosophy.md) |
 | ✅      | [02-research-playbook.md](02-research-playbook.md)   |
-
+| ✅      | [10-knowledge-transfer.md](10-knowledge-transfer.md) |
 ---
 
 ### In Progress
 
 | Status | Document                |
 | ------ | ----------------------- |
-| 🚧     | 10-knowledge-transfer.md |
 | 🚧     | 20-ai-research-coach.md  |
 | 🚧     | 30-research-contribution-system.md      |
 
@@ -32,11 +31,11 @@
 
 #### ATemplates
 
-- [ ] A-research-assignment.md
+- ✅ [A-research-assignment.md](templates/A-research-assignment.md)
 - [ ] B-knowledge-transfer-checklist.md
 - [ ] C-verification-report.md
 - [ ] D-acceptance-form.md
-- ✅  [E-daily-self-review-prompt.md](appendix/E-daily-self-review-prompt.md)
+- ✅  [E-daily-self-review-prompt.md](templates/B-knowledge-transfer-checklist.md)
 
 #### Examples
 
