@@ -21,9 +21,9 @@
 
 | Status | Document                |
 | ------ | ----------------------- |
-| 🚧     | 10-project-ownership.md |
-| 🚧     | 11-project-handover.md  |
-| 🚧     | 12-daily-report.md      |
+| 🚧     | 10-research-handover.md |
+| 🚧     | 20-ai-research-coach.md  |
+| 🚧     | 30-research-contribution-system.md      |
 
 ---
 
