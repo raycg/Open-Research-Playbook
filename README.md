@@ -63,11 +63,11 @@ Knowledge transfer enables continuity.
 
 ### Foundation
 
-| Document                    | Question                               |
-| --------------------------- | -------------------------------------- |
-| `00-design-principles.md`   | How should this repository be written? |
-| `01-research-philosophy.md` | Why do we conduct research this way?   |
-| `02-research-playbook.md`   | How do we conduct research?            |
+| Document | Question |
+|----------|----------|
+| [00-design-principles.md](00-design-principles.md) | How should this repository be written? |
+| [01-research-philosophy.md](01-research-philosophy.md) | Why do we conduct research this way? |
+| [02-research-playbook.md](02-research-playbook.md) | How do we conduct research? |
 
 ### Knowledge Transfer
 
