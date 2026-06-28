@@ -5,6 +5,31 @@
 
 ---
 
+## Why?
+
+Research is not simply a collection of experiments.
+
+Successful research is a structured process that transforms ideas into reproducible knowledge.
+
+Without a clear workflow, researchers often:
+- Start coding before understanding the problem.
+- Run experiments without clear hypotheses.
+- Collect results without sufficient evidence.
+- Produce documentation that others cannot follow.
+- Leave knowledge that cannot be transferred.
+
+The purpose of this playbook is not to prescribe every step of research.
+
+Instead, it provides a common workflow that helps researchers:
+- Think before acting.
+- Verify before believing.
+- Document before forgetting.
+- Transfer before leaving.
+
+A good workflow reduces unnecessary trial and error, improves research quality, and enables the next researcher to continue the work.
+
+---
+
 ### 1. Research Lifecycle
 
 Every research project follows a common workflow.
