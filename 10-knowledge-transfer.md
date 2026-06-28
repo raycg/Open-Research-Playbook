@@ -25,8 +25,20 @@ The goal of knowledge transfer is to enable the next researcher to:
 - Reproduce the results
 - Continue the work
 - Improve the research
+```mermaid
+graph LR
+    R[Research]
+    D[Documentation]
+    V[Verification]
+    T[Knowledge Transfer]
+    N[Next Researcher]
 
-Knowledge transfer is therefore an essential part of research rather than an administrative task.
+    R --> D
+    D --> V
+    V --> T
+    T --> N
+```    
+**Knowledge transfer connects one researcher to the next and enables research continuity.**
 
 ---
 
@@ -62,13 +74,13 @@ Every issue is an opportunity to improve the research.
 
 ---
 
-#### Principle 4 Responsibility changes after verification.
+#### Principle 4. Responsibility is transferred through verification.
 
-Before verification, the outgoing researcher is responsible for explaining the research.
+Successful verification marks the transfer of responsibility from the outgoing researcher to the incoming researcher.
 
-After verification is accepted, the incoming researcher becomes responsible for maintaining and extending the research.
+Graduation alone does not transfer responsibility.
 
-Knowledge ownership is transferred through successful verification rather than graduation.
+Successful verification does.
 
 ---
 
@@ -87,13 +99,15 @@ Knowledge transfer follows a common workflow.
 ```mermaid
 graph LR
     O[Outgoing Researcher]
+    D[Documentation]
     H[Knowledge Handover]
     V[Verification]
     I[Issue Resolution]
     A[Acceptance]
     N[Next Researcher]
 
-    O --> H
+    O --> D
+    D --> H
     H --> V
     V --> I
     I --> A
@@ -119,6 +133,8 @@ The outgoing researcher is responsible for:
 
 The outgoing researcher is **not** expected to provide unlimited one-on-one training after leaving the laboratory.
 
+The outgoing researcher should leave the project in a state that another researcher can continue.
+
 ---
 
 #### Incoming Researcher
@@ -131,6 +147,8 @@ The incoming researcher is responsible for:
 - Updating documentation when necessary
 
 **Verification is the responsibility of the incoming researcher.**
+
+The incoming researcher should leave the project in a better state than it was received.
 
 ---
 
@@ -156,6 +174,10 @@ Verification should include:
 - Result comparison
 - Issue reporting
 
+Verification is not an examination.
+
+Verification is a learning process.
+
 **Verification should focus on evidence** rather than opinions.
 
 ---
@@ -166,7 +188,7 @@ Knowledge transfer is complete only when:
 - Documentation is complete.
 - Verification has passed.
 - Critical issues have been resolved.
-- The advisor accepts the transfer.
+- The advisor accepts the transfer only if **knowledge continuity is proved**.
 
 At this point, responsibility for the research is transferred to the incoming researcher.
 
@@ -183,8 +205,12 @@ The following templates implement the workflow described in this document.
 
 ---
 
-### Final Message
+### Final Message: Enable the next researcher.
 
-**Knowledge creates impact only when it can be transferred.**
+**Knowledge grows when it is shared.**
 
-**Research is complete only when the next researcher can continue it.**
+**Research continues when knowledge is transferred.**
+
+**Every successful transfer enables the next researcher.**
+
+
