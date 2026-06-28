@@ -19,6 +19,7 @@
 *A living playbook for research laboratories, graduate students, and AI research coaches.*
 
 ---
+
 | 文件                   | 回答的問題                                 | 目標讀者         |
 | -------------------- | ------------------------------------- | ------------ |
 | README               | What is this project?                 | 所有人          |
