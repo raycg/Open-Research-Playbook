@@ -15,6 +15,7 @@
 | ✅      | [00-design-principles.md](00-design-principles.md)   |
 | ✅      | [01-research-philosophy.md](01-research-philosophy.md) |
 | ✅      | [02-research-playbook.md](02-research-playbook.md)   |
+| ✅      | [03-getting-started.md](03-getting-started.md)
 | ✅      | [10-knowledge-transfer.md](10-knowledge-transfer.md) |
 ---
 
