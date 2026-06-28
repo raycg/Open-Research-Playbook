@@ -10,6 +10,17 @@
 >
 > Start here.
 
+### Repository Roadmap
+
+```mermaid
+graph LR
+    GS[Getting Started] --> RP[Research Philosophy]
+    RP --> RPlay[Research Playbook]
+    RPlay --> KT[Knowledge Transfer]
+    KT --> T[Templates]
+```
+> Follow the documents in this order. Each document builds upon the previous one.
+
 ---
 
 ### Step 1 — Understand Our Research Philosophy
@@ -51,13 +62,13 @@ Record the meeting using:
 
 ---
 
-### Step 4 — Access Research Resources
+### Step 4 — Verify Your Research Environment
 
-Verify that you can access:
-
-* Laboratory GitHub (Source Code)
-* Overleaf (Paper / Thesis)
-* pCloud (Documents, Datasets, Experimental Results)
+Checklist:
+- [ ] GitHub repository can be cloned.
+- [ ] Overleaf project can be opened.
+- [ ] pCloud folder is accessible.
+- [ ] The project can be built or executed.
 
 ---
 
@@ -105,13 +116,14 @@ By the end of your first week, you should be able to:
 
 ---
 
-### Continue Reading
+## You're Ready
 
-Once you are ready, continue with:
+If you can complete the First Week Checklist, you are ready to contribute to the laboratory.
 
-* [10-knowledge-transfer.md](10-knowledge-transfer.md)
-
-When participating in research activities, use the templates in the `templates/` directory.
+Continue your research using:
+- Research Playbook [02-research-playbook.md](02-research-playbook.md)
+- Knowledge Transfer [10-knowledge-transfer.md](10-knowledge-transfer.md)
+- Templates [templates/](templates) directory.
 
 ---
 
