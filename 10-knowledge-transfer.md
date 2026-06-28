@@ -41,7 +41,7 @@ graph LR
     T --> N
 ````
 
-**Knowledge transfer connects one researcher to the next and enables research continuity.**
+Knowledge transfer connects one researcher to the next and enables research continuity.
 
 Research creates knowledge.
 
