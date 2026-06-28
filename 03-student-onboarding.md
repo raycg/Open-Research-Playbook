@@ -29,6 +29,24 @@ This guide shows you where to start.
 
 Detailed explanations are provided in the linked documents.
 
+> **Never start by writing new code.**
+>
+> First understand.
+> Then reproduce.
+> Finally improve.
+
+### Laboratory Resources
+
+During your first week, make sure you have access to the following resources.
+
+| Resource | Purpose |
+|----------|---------|
+| Laboratory GitHub | Source code |
+| Overleaf | Papers and theses |
+| pCloud | Documents, datasets, logs, figures, slides |
+| GitHub Issues | Known issues and TODOs |
+| Advisor/Mentors | Research direction |
+
 ---
 
 ### Your First Week
@@ -83,26 +101,23 @@ After the meeting, you should know:
 
 ---
 
-### Step 3 — Access Research Resources
+### Step 3 — Locate Your Research
 
 Make sure you can access all required laboratory resources.
 
 #### Source Code
-
-* Laboratory GitHub Organization
+- Laboratory GitHub Organization
 
 #### Documents
-
-* Overleaf (Paper / Thesis)
-* Laboratory pCloud
+- Overleaf (Paper / Thesis)
+- Laboratory pCloud
 
 #### Research Materials
-
-* Defense slides
-* Design documents
-* README
-* Meeting notes
-* Experimental results
+- Defense slides
+- Design documents
+- README
+- Meeting notes
+- Experimental results
 
 ---
 
@@ -205,6 +220,20 @@ By the end of your first week, you should be able to complete the following chec
 
 ---
 
+### Onboarding Complete
+
+You have successfully completed onboarding when you can:
+
+- Explain your research in five minutes.
+- Reproduce the Minimum Reproducible Result (MRR).
+- Submit one AI-reviewed daily report.
+- Ask one evidence-based question.
+- Improve one document, script, or experiment.
+
+Once you can do these things, you are ready to contribute to the laboratory.
+
+---
+
 ### Next Steps
 
 Once you have completed onboarding, continue with:
@@ -235,3 +264,11 @@ You are expected to learn how to learn.
 Every researcher starts as a newcomer.
 
 Every experienced researcher was once successfully onboarded.
+
+## Next Question
+
+> **How do we transfer research knowledge?**
+
+Continue with:
+
+➡️ [10-knowledge-transfer.md](10-knowledge-transfer.md)
