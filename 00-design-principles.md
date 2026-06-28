@@ -120,16 +120,25 @@ Good documentation should be visual and easy to scan.
 
 ---
 
-## 9. Living Document
+### 9. Living Document
 
 This repository is expected to evolve.
 
 Every contributor is encouraged to:
-- Open Issues
-- Suggest improvements
-- Submit Pull Requests
+
+* Open Issues
+* Suggest improvements
+* Submit Pull Requests
+* Improve documentation and navigation
+
+A good document should be easier to read after every revision.
+
+**If an existing document is referenced, always use a relative Markdown link instead of plain text.**
+
+Readers should never need to search for a document that has already been mentioned.
 
 Version history should reflect continuous improvement rather than perfection.
+
 
 ---
 
