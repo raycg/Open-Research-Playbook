@@ -64,10 +64,12 @@ Knowledge transfer enables continuity.
 ### Foundation
 
 | Document | Question |
-|----------|----------|
-| [00-design-principles.md](00-design-principles.md) | How should this repository be written? |
-| [01-research-philosophy.md](01-research-philosophy.md) | Why do we conduct research this way? |
-| [02-research-playbook.md](02-research-playbook.md) | How do we conduct research? |
+| ------------------- | ------------------------------ |
+| Design Principles  [00-design-principles.md](00-design-principles.md) | How should we write knowledge? |
+| Research Philosophy [01-research-philosophy.md](01-research-philosophy.md)| Why do we conduct research?    |
+| Research Playbook [02-research-playbook.md](02-research-playbook.md)  | How do we conduct research?    |
+| Knowledge Transfer [10-knowledge-transfer.md](10-knowledge-transfer.md) | How does research continue?    |
+
 
 ### Knowledge Transfer
 
