@@ -25,6 +25,7 @@ The goal of knowledge transfer is to enable the next researcher to:
 - Reproduce the results
 - Continue the work
 - Improve the research
+
 ```mermaid
 graph LR
     R[Research]
@@ -39,6 +40,12 @@ graph LR
     T --> N
 ```    
 **Knowledge transfer connects one researcher to the next and enables research continuity.**
+
+Research creates knowledge.
+
+Knowledge transfer enables future research.
+
+**The purpose of knowledge transfer is to enable future research, not simply to preserve past research.**
 
 ---
 
@@ -98,6 +105,7 @@ Knowledge transfer follows a common workflow.
 
 ```mermaid
 graph LR
+    AS[Research Assignment]
     O[Outgoing Researcher]
     D[Documentation]
     H[Knowledge Handover]
@@ -106,6 +114,7 @@ graph LR
     A[Acceptance]
     N[Next Researcher]
 
+    AS --> O
     O --> D
     D --> H
     H --> V
@@ -174,6 +183,12 @@ Verification should include:
 - Result comparison
 - Issue reporting
 
+Verification is considered successful when:
+- The documented workflow can be reproduced.
+- The expected results can be obtained.
+- Remaining issues are documented.
+- The incoming researcher understands how to continue the work.
+
 Verification is not an examination.
 
 Verification is a learning process.
@@ -185,16 +200,27 @@ Verification is a learning process.
 ### Acceptance
 
 Knowledge transfer is complete only when:
-- Documentation is complete.
-- Verification has passed.
-- Critical issues have been resolved.
-- The advisor accepts the transfer only if **knowledge continuity is proved**.
+- [ ] Documentation is complete.
+- [ ] Verification has passed.
+- [ ] Critical issues have been resolved or reported to the advisor.
+- [ ] Knowledge continuity established.
+- [ ] The advisor accepts the transfer.
 
 At this point, responsibility for the research is transferred to the incoming researcher.
 
 ---
 
-### Templates
+### Shared Responsibility
+
+All participants share one common goal:
+
+**Enable the next researcher.**
+
+Knowledge transfer succeeds only when every participant contributes to research continuity.
+
+---
+
+### Supporting Templates
 
 The following templates implement the workflow described in this document.
 - Appendix A — Research Assignment
