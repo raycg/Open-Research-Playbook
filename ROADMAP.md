@@ -1,6 +1,7 @@
 ## Open Research Playbook Roadmap
 
-> This document describes the development status and future roadmap of the Open Research Playbook.
+> This document describes the development status, future milestones, and long-term vision of the Open Research Playbook.
+
 
 ---
 
@@ -21,7 +22,7 @@
 
 | Status | Document                |
 | ------ | ----------------------- |
-| 🚧     | 10-research-handover.md |
+| 🚧     | 10-knowledge-transfer.md |
 | 🚧     | 20-ai-research-coach.md  |
 | 🚧     | 30-research-contribution-system.md      |
 
@@ -29,44 +30,41 @@
 
 ### Backlog
 
-#### Appendix
+#### ATemplates
 
-* [ ] A-project-assignment.md
-* [ ] B-project-handover-checklist.md
-* [ ] C-project-handover-acceptance.md
-* [ ] D-advisor-acceptance.md
-* ✅  [E-daily-self-review-prompt.md](appendix/E-daily-self-review-prompt.md)
+- [ ] A-project-assignment.md
+- [ ] B-knowledge-transfer-checklist.md
+- [ ] C-verification-report.md
+- [ ] D-acceptance-form.md
+- ✅  [E-daily-self-review-prompt.md](appendix/E-daily-self-review-prompt.md)
 
 #### Examples
 
-* [ ] example-design-document.md
-* [ ] example-daily-report.md
-* [ ] example-project-handover.md
+- [ ] example-design-document.md
+- [ ] example-daily-report.md
+- [ ] example-knowledge-transfer.md
 
 ---
 
 ## Development Milestones
 
-### M1 — Graduate Project Handover
-
+### M1 — Knowledge Transfer Foundation
 #### Goal
+Establish a reproducible knowledge transfer workflow for graduating researchers.
 
-Enable graduating MSc students to complete project handover smoothly.
-
-#### Deliverables
-
-* Foundation documents
-* Project Ownership
-* Project Handover
-* Daily Report
-* Appendix A–E
+Deliverables
+- Knowledge Transfer
+- Daily Report
+- Templates A–E
+- Verification Workflow
+- Acceptance Workflow
 
 #### Definition of Done
 
-* All graduating students complete project handover.
-* Incoming students complete verification.
-* Advisors complete acceptance.
-* Feedback is collected and incorporated into the next revision.
+- Outgoing researchers complete knowledge transfer.
+- Incoming researchers successfully verify and reproduce the work.
+- Advisors complete acceptance.
+- Feedback is collected and incorporated into the next revision.
 
 ---
 
@@ -89,24 +87,23 @@ Use AI to improve research quality while preserving independent thinking.
 
 #### Goal
 
-Establish a fair, transparent, and reproducible contribution system.
+Establish a fair, transparent, and reproducible contribution framework.
 
 #### Deliverables
 
-* Contribution Categories
-* Contribution Portfolio
-* Recognition Guidelines
-* Integration with Project Ownership
+- Contribution Categories
+- Contribution Portfolio
+- Recognition Guidelines
+- Contribution Evaluation
 
 ---
 
 ## Long-term Vision
 
-Build an open, community-driven playbook that helps researchers:
+The Open Research Playbook aims to help every laboratory build research that is:
+- Easy to understand
+- Easy to reproduce
+- Easy to transfer
+- Easy to continue
 
-* Think independently
-* Verify rigorously
-* Document clearly
-* Transfer knowledge effectively
-
-Our vision is to help laboratories continuously improve through reproducible research, effective knowledge transfer, and AI-assisted collaboration.
+Our long-term vision is to enable the next researcher through reproducible research, effective knowledge transfer, and AI-assisted collaboration.
