@@ -1,7 +1,9 @@
 ## Research Playbook
 
-> >**How do we conduct research?**
-> >This document describes the research lifecycle, research workflow, daily practice, working with AI, working with the others, and research outcomes.
+> **How do we conduct research?**
+> This document describes the research lifecycle, research workflow, daily practice, working with AI, working with the others, and research outcomes.
+
+---
 
 ### 1. Research Lifecycle
 
@@ -17,6 +19,7 @@ graph LR
 ```
 Every research activity should follow this lifecycle.
 
+---
 
 ### 2. Research Workflow
 
@@ -81,6 +84,7 @@ Do not ask AI to write code before the design is clear.
 
 AI can help review the design, identify missing assumptions, and suggest verification methods, but it should not replace the researcher's responsibility to understand the problem.
 
+---
 
 ### 3. Daily Practice
 
@@ -91,20 +95,22 @@ Every working day consists of two stages:
 1. **Plan before taking actions** (at the beginning of the day)
 2. **Review before leaving** (at the end of the day)
 
-#### Morning: Plan before taking actions
+
+#### 1. Morning: Plan before taking actions
 
 Before starting work, define a clear plan for the day.
 
 Your daily plan should answer:
+
 - What is today's objective?
 - Why is it important?
 - What evidence do I expect to obtain?
 - What is the expected outcome?
 - What risks or blockers may occur?
 
-Do not start coding or experiments without a plan.
+**Do not start coding or experiments without a plan.**
 
-#### Evening: Review before leaving
+#### 2. Evening: Review before leaving
 
 Before leaving the laboratory, review the day's progress.
 
@@ -124,30 +130,63 @@ Ask yourself:
 
 #### AI-assisted Self Review
 
-Before submitting the daily report, use AI coach to review your work.
+Before submitting the daily report, use an AI coach to review your work.
 
-AI coach should compare:
-- Today's plan
-- Today's activities
-- Today's evidence
-- Today's outcomes
-
-AI coach can help identify:
-- Missing evidence
-- Inconsistent conclusions
-- Unfinished tasks
-- Deviations from the original plan
-
-The purpose of AI is not to evaluate the student.
+The purpose of the AI coach is not to evaluate the student.
 
 The purpose is to help the student evaluate themselves.
+
+Use the following prompt:
+```text
+You are my AI Research Coach.
+
+Please review my daily research report based on the Open Research Playbook. The core principles are:
+- Think before acting.
+- Verify before believing.
+- Document before forgetting.
+- Transfer before leaving.
+- Research is complete only when it can be reproduced and transferred.
+
+Please compare:
+1. My morning plan
+2. My actual activities
+3. My evidence
+4. My outcomes
+
+Please check whether:
+- My actions matched my plan.
+- I clearly explained what I verified.
+- I provided enough evidence, such as logs, screenshots, commit IDs, figures, or experiment records.
+- My conclusions are supported by evidence.
+- I documented enough information for another researcher to continue my work.
+- I identified unfinished tasks and blockers clearly.
+- Tomorrow's plan logically follows from today's outcome.
+
+Please do not simply praise me.
+
+Please identify:
+
+1. Missing evidence
+2. Weak reasoning
+3. Unclear assumptions
+4. Unfinished tasks
+5. Deviations from the original plan
+6. Risks for project handover or reproducibility
+
+Finally, provide:
+
+- A short summary of today's progress
+- A list of issues I should fix before submitting this report
+- A suggested plan for tomorrow
+
+Here is my daily report:
+
+[Paste my daily report here]
 ```
-Your daily report should contain the answers to the following questions:
-- **Think**: What is the biggest problem today? | 今天最大的問題是？
-- **Verify**: What did I verify today? | 今天驗證了什麼？
-- **Document**: What did I document today? |今天留下了什麼？
-- **Transfer**: If I leave today, can someone else continue my work? | 如果今天離開，別人能接嗎？
-```
+
+Students should revise the daily report based on the AI coach's feedback before submitting it.
+
+---
 
 ### 4. Working with AI
 AI should be used to improve research quality rather than replace research thinking.
@@ -160,6 +199,8 @@ graph LR
     AR --> HD[Human Discussion]
 ```
 
+---
+
 ### 5. Research Collaboration
 
 ```mermaid
@@ -168,6 +209,8 @@ graph LR
     E --> A[Analysis]
     A --> D[Discussion]
 ```
+
+---
 
 ### 6. Research Outcomes
 Research should produce reusable knowledge.
@@ -179,6 +222,8 @@ Typical research outcomes include:
 - Documentation
 - Reproducible experiments
 - Technical knowledge
+
+---
 
 ## Final Message
 
