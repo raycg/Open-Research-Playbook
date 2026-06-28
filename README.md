@@ -1,133 +1,77 @@
 # Open Research Playbook
 
-> **An open framework for reproducible research, knowledge transfer, and AI-assisted research.**
+> **What is the Open Research Playbook?**
 
-**We don't just conduct research.**
-
-**We enable the next researcher.**
+An engineering handbook for reproducible research, knowledge transfer, and AI-assisted research.
 
 ---
 
 ## Why?
 
-Research does not end when a paper is published.
-
-Research does not end when a student graduates.
-
 Research is complete only when the next researcher can:
-* Understand the work
-* Reproduce the results
-* Improve the ideas
-* Continue the research
 
-The Open Research Playbook is designed to help laboratories build a sustainable research culture through reproducibility, documentation, knowledge transfer, and AI-assisted collaboration.
+* 🧠 **Think** — understand the work.
+* 🔬 **Verify** — reproduce the results.
+* 📝 **Document** — improve and preserve the knowledge.
+* 🤝 **Transfer** — continue the research.
 
----
-
-## Our Mission
-
-Our mission is simple:
-> **Enable the next researcher.**
-
-Every document, workflow, and template in this repository is designed to answer one question:
-> **How can we make it easier for the next researcher to continue our work?**
+This repository helps researchers think, verify, document, and transfer research work to ensure research continuity.
 
 ---
 
-## Core Philosophy
+## What Should I Do Next?
 
-Every research activity should follow four fundamental principles.
-```text
-🧠 Think
-      ↓
-🔬 Verify
-      ↓
-📝 Document
-      ↓
-🤝 Transfer
-```
+Choose the document that matches your current stage.
 
-Research creates knowledge.
-
-Documentation preserves knowledge.
-
-Verification validates knowledge.
-
-Knowledge transfer enables future research.
-
-> **Enable the next researcher.**
-> **Research is not complete until someone else can continue it.**
+| Current Stage                           | Read                                                      | Purpose                                             |
+| --------------------------------------- | --------------------------------------------------------- | --------------------------------------------------- |
+| 🆕 **Joining the laboratory**           | [03-getting-started.md](docs/03-getting-started.md)       | Learn how to start your first week.                 |
+| 🔬 **Conducting research**              | [02-research-playbook.md](docs/02-research-playbook.md)   | Learn the daily research workflow.                  |
+| 🎓 **Preparing for knowledge transfer** | [10-knowledge-transfer.md](docs/10-knowledge-transfer.md) | Prepare research knowledge for the next researcher. |
 
 ---
 
-## Repository Structure
+## Where Can I Find More Information?
 
-### Foundation
+### Core Documents
 
-| Document | Question |
-| ------------------- | ------------------------------ |
-| Design Principles:  [00-design-principles.md](00-design-principles.md) | How should we write knowledge? |
-| Research Philosophy: [01-research-philosophy.md](01-research-philosophy.md)| Why do we conduct research?    |
-| Research Playbook: [02-research-playbook.md](02-research-playbook.md)  | How do we conduct research? |
-| Knowledge Transfer: [10-knowledge-transfer.md](10-knowledge-transfer.md) | How does research continue? |
+| Document                                                    | Description                                         |
+| ----------------------------------------------------------- | --------------------------------------------------- |
+| [00-design-principles.md](docs/00-design-principles.md)     | Design principles of the Open Research Playbook.    |
+| [01-research-philosophy.md](docs/01-research-philosophy.md) | Why we conduct research this way.                   |
+| [02-research-playbook.md](docs/02-research-playbook.md)     | How research is planned, executed, and documented.  |
+| [03-getting-started.md](docs/03-getting-started.md)         | Guide for new researchers during their first week.  |
+| [10-knowledge-transfer.md](docs/10-knowledge-transfer.md)   | How research knowledge is transferred and verified. |
 
+### Templates
 
-### Knowledge Transfer
+| Template                                                                         | Description                                              |
+| -------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| [A-research-assignment.md](templates/A-research-assignment.md)                   | Define the initial research assignment.                  |
+| [B-knowledge-transfer-checklist.md](templates/B-knowledge-transfer-checklist.md) | Prepare research knowledge for transfer.                 |
+| [C-verification-report.md](templates/C-verification-report.md)                   | Verify reproducibility before accepting a transfer.      |
+| [D-acceptance-form.md](templates/D-acceptance-form.md)                           | Confirm successful knowledge transfer.                   |
+| [E-ai-daily-self-review-prompt.md](templates/E-ai-daily-self-review-prompt.md)   | AI-assisted daily self-review.                           |
+| [F-meeting-notes.md](templates/F-meeting-notes.md)                               | Record meeting discussions, decisions, and action items. |
 
-| Document                   | Question                                                                 |
-| -------------------------- | ------------------------------------------------------------------------ |
-| `10-knowledge-transfer.md` | How do we transfer research knowledge? *(Coming Soon)*                   |
-| `11-daily-report.md`       | How should researchers plan and review their daily work? *(Coming Soon)* |
+### Examples *(Coming Soon)*
 
-### AI-assisted Research
+| Example                                                                   | Description                         |
+| ------------------------------------------------------------------------- | ----------------------------------- |
+| [example-design-document.md](examples/example-design-document.md)         | Example research design document.   |
+| [example-daily-report.md](examples/example-daily-report.md)               | Example daily report.               |
+| [example-meeting-notes.md](examples/example-meeting-notes.md)             | Example meeting notes.              |
+| [example-knowledge-transfer.md](examples/example-knowledge-transfer.md)   | Example knowledge transfer package. |
+| [example-verification-report.md](examples/example-verification-report.md) | Example verification report.        |
 
-| Document                  | Question                                       |
-| ------------------------- | ---------------------------------------------- |
-| `20-ai-research-coach.md` | How should AI assist research? *(Coming Soon)* |
+### Repository
 
-### Research Contribution
-
-| Document                             | Question                                                    |
-| ------------------------------------ | ----------------------------------------------------------- |
-| `30-research-contribution-system.md` | How do we recognize research contributions? *(Coming Soon)* |
-
----
-
-## Start Here
-
-We recommend reading the documents in the following order:
-
-1. [Design Principles](00-design-principles.md)
-2. [Research Philosophy](01-research-philosophy.md)
-3. [Research Playbook](02-research-playbook.md)
-4. [Knowledge Transfer](10-knowledge-transfer.md)
-5. [Getting Started](03-getting-started.md)
-6. [Daily Report]()
-7. [AI Research Coach]()
+| Document                 | Description                                |
+| ------------------------ | ------------------------------------------ |
+| [ROADMAP.md](ROADMAP.md) | Development roadmap and repository status. |
 
 ---
 
-## Roadmap
+## Final Message
 
-Project progress and future milestones are maintained in [ROADMAP.md](ROADMAP.md).
-
----
-
-## Contributing
-
-The Open Research Playbook is a living document.
-
-We welcome ideas, discussions, issues, and pull requests from researchers, students, educators, and the open-source community.
-
----
-
-## Our Vision
-
-We hope every laboratory can build research that is:
-- Easy to understand
-- Easy to reproduce
-- Easy to transfer
-- Easy to continue
-
-Because the true value of research is not only what we discover today, 
-but also what the next researcher can build tomorrow.
+> **Research is complete only when the next researcher can understand, reproduce, improve, and continue it.**
