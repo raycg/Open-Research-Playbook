@@ -16,34 +16,35 @@ This template helps researchers plan, verify, and document daily research activi
 
 Define one-month goals and weekly milestones.
 
-- Goal 1: Deliverable
-  - Milestone 1: Deliverable, Due YYYY/MM/DD
-  - Milestone 2: Deliverable, Due YYYY/MM/DD
-  - Milestone 3: Deliverable, Due YYYY/MM/DD
+* Goal 1: Deliverable
 
-- Goal 2: Deliverable
-  - Milestone 1: Deliverable, Due YYYY/MM/DD
-  - Milestone 2: Deliverable, Due YYYY/MM/DD
-  - Milestone 3: Deliverable, Due YYYY/MM/DD
+  * Milestone 1: Deliverable, Due YYYY/MM/DD
+  * Milestone 2: Deliverable, Due YYYY/MM/DD
+  * Milestone 3: Deliverable, Due YYYY/MM/DD
+
+* Goal 2: Deliverable
+
+  * Milestone 1: Deliverable, Due YYYY/MM/DD
+  * Milestone 2: Deliverable, Due YYYY/MM/DD
+  * Milestone 3: Deliverable, Due YYYY/MM/DD
 
 ---
 
 ## Plan
-Daily tasks should come from either:
-- A weekly milestone under the short-term goal, or
-- An action item recorded in the latest [Meeting Notes](F-meeting-notes.md)
 
-| Task | Expected Deliverable | Estimated Time | Evidence (Hyperlink) |
-| ---- | -------------------- | -------------- | -------------------- |
-|      |                      |                |                      |
-|      |                      |                |                      |
-|      |                      |                |                      |
+Daily tasks should support one of the weekly milestones or action items from the latest [Meeting Notes](F-meeting-notes.md).
+
+| Priority | Task | Expected Deliverable | Est. Time | Evidence (Hyperlink) |
+| -------- | ---- | -------------------- | --------- | -------------------- |
+| P1       |      |                      |           |                      |
+| P2       |      |                      |           |                      |
+| P3       |      |                      |           |                      |
 
 Guidelines:
 
-* Each task should contribute to a short-term goal.
-* Each deliverable should be **measurable**.
-* Record the hyperlink where the evidence will be stored (GitHub, Overleaf, pCloud, logs, figures, etc.).
+* Each task should support a weekly milestone or meeting action item.
+* Each deliverable should be measurable.
+* Plan where the evidence will be recorded before starting the work.
 
 ---
 
@@ -55,21 +56,21 @@ Guidelines:
 |      | ☐ Done ☐ Pending ☐ Blocked |             |                      |
 |      | ☐ Done ☐ Pending ☐ Blocked |             |                      |
 
-If a task is **Pending** or **Blocked**, briefly explain the reason and update tomorrow's plan.
+If a task is **Pending** or **Blocked**, briefly explain why and update the next working day plan.
+
+**Today's biggest lesson**
+
+```text
+```
 
 ---
 
-## Plan for the Next Working Day
+## Next Working Day Plan
 
-List the jobs to be done in the next working day based on today's review.
+Prepare the next working day based on today's review.
 
-| Priority | Task | Reason | Expected Deliverable |
-|----------|------|--------|----------------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-
-Notes:
-- Move unfinished **Pending** or **Blocked** tasks here if they should continue.
-- Add new tasks only if they support the short-term goal.
-- Keep the plan small enough to complete in one working day.
+| Priority | Task | Expected Deliverable |
+| -------- | ---- | -------------------- |
+| P1       |      |                      |
+| P2       |      |                      |
+| P3       |      |                      |
