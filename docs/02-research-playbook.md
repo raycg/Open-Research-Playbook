@@ -26,7 +26,7 @@ Document **only what is essential** for reproducibility and continuity.
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
 | 🧠 **Think**    | [Daily Note](../templates/G-daily-note.md) (Morning Plan)                                                                                  | Daily Plan             |
 | 🔬 **Verify**   | [Daily Note](../templates/G-daily-note.md) (Evening Report) + [AI Daily Self-review Prompt](../templates/E-ai-daily-self-review-prompt.md) | Daily Report           |
-| 📝 **Document** | [Meeting Notes](../templates/F-meeting-notes.md)                                                                                           | Reproducible Knowledge |
+| 📝 **Document** | [Daily Note](../templates/G-daily-note.md) (Milestone and Daily Achievement), [Meeting Notes](../templates/F-meeting-notes.md)                                                                                           | Reproducible Knowledge |
 | 🤝 **Transfer** | [Knowledge Transfer](10-knowledge-transfer.md)                                                                                             | Research Continuity    |
 
 ---
