@@ -1,196 +1,108 @@
-## Design Principles
+# Design Principles
 
-> This document defines how the Open Research Playbook should be written and maintained.  
-> 本文件說明 Open Research Playbook 的撰寫原則，確保所有內容具有一致的理念、架構與風格。
+> **How should the Open Research Playbook be written?**
+
+This document defines the design principles of the Open Research Playbook.
 
 ---
 
 ## Why?
 
-A playbook should not become another SOP.
+The Open Research Playbook should be:
 
-It should teach people **how to think**, not simply **what to do**.
+* Easy to read.
+* Easy to navigate.
+* Easy to maintain.
+* Easy to improve.
 
-The goal of this repository is to help researchers become independent, reproducible, collaborative, and capable of transferring knowledge.
+Every document should help readers find the information they need with minimal effort.
 
 ---
 
-## 1. Every page answers ONE question
+## What?
 
-> **One page. One purpose. One question.**
+### Principle 1 — One Document, One Question
 
-Every document should answer one clear question.
+Every document should answer one question.
 
 Examples:
 
-| Document | Question |
-|---|---|
-| README | What is Open Research Playbook? |
-| Research Playbook | How do we conduct research? |
-| Project Ownership | Who owns a project? |
-| Handover SOP | How do we transfer a project? |
-| Contribution System | How do we recognize contributions? |
-
-If one page answers multiple questions, split it.
+* What is the Open Research Playbook?
+* How do we conduct research?
+* How do we transfer research knowledge?
+* What should be transferred?
+* Can another researcher reproduce this work?
 
 ---
 
-## 2. Why before How
+### Principle 2 — A Consistent Structure
 
-Always explain **why** before explaining **how**.
-
-Good structure:
+Every document should follow the same structure.
 
 ```text
-Why → Principle → Workflow → Template
+Question
+↓
+Why
+↓
+What
+↓
+Where
+↓
+Final Message
 ```
 
-Avoid starting directly with procedures or forms.
+| Section           | Purpose                                  |
+| ----------------- | ---------------------------------------- |
+| **Question**      | Define the purpose of the document.      |
+| **Why**           | Explain why the document is needed.      |
+| **What**          | Present the essential information.       |
+| **Where**         | Link to related documents and templates. |
+| **Final Message** | Summarize one key takeaway.              |
 
 ---
 
-## 3. Principle before Procedure
+### Principle 3 — Navigation Before Explanation
 
-Do not start with templates.
+Readers should always know where to go next.
 
-Explain the principle first, then the workflow, then the template.
-
-A good playbook helps students understand the reason behind the rule.
+Every referenced document should include a hyperlink whenever possible.
 
 ---
 
-## 4. Think in Systems, not Documents
+### Principle 4 — Document Only the Essentials
 
-Every document should fit into the overall system.
+Documentation should preserve only the information required for another researcher to:
 
-Each page should make clear:
-- Why it exists
-- What problem it solves
-- How it connects to the whole playbook
+* Understand the work.
+* Reproduce the results.
+* Continue the research.
 
----
-
-## 5. AI-readable = Human-readable
-
-The playbook should be understandable by:
-- Students
-- Researchers
-- Advisors
-- AI Research Coaches
-
-Avoid legal language and administrative language.
-
-Prefer simple, precise engineering language.
+Avoid documenting information that does not improve reproducibility or research continuity.
 
 ---
 
-## 6. Keep it Short
+### Principle 5 — Continuous Improvement
 
-A student should be able to finish one chapter in about 10 minutes.
+Every revision should make the repository:
 
-Prefer:
-- Bullet lists
-- Tables
-- Diagrams
-- Examples
+* Easier to understand.
+* Easier to navigate.
+* Easier to maintain.
 
-Avoid:
-- Long paragraphs
-- Repeated explanations
-- Unnecessary details
+Small improvements are encouraged.
 
 ---
 
-## 7. Examples before Exceptions
+## Where?
 
-People learn faster from examples than from regulations.
+### Related Documents
 
-Recommended order:
-```text
-Simple Example → General Rule → Special Cases
-```
-
----
-
-## 8. Diagrams before Paragraphs
-
-Whenever possible, replace one page of text with one diagram.
-
-Good documentation should be visual and easy to scan.
+* [README.md](../README.md)
+* [01-research-philosophy.md](01-research-philosophy.md)
+* [02-research-playbook.md](02-research-playbook.md)
 
 ---
 
-### 9. Living Document
+## Final Message
 
-This repository is expected to evolve.
-
-Every contributor is encouraged to:
-
-* Open Issues
-* Suggest improvements
-* Submit Pull Requests
-* Improve documentation and navigation
-
-A good document should be easier to read after every revision.
-
-**If an existing document is referenced, always use a relative Markdown link instead of plain text.**
-
-Readers should never need to search for a document that has already been mentioned.
-
-Version history should reflect continuous improvement rather than perfection.
-
-**Every revision should make the repository easier to understand, navigate, and improve.**
-
----
-
-## 10. Document What People Repeatedly Forget
-
-Do not document everything.
-
-Document what people repeatedly forget, misunderstand, or ask about.
-
-The playbook exists to reduce repeated mistakes, not to maximize documentation.
-
----
-
-## 11. Learn from Problems, Not People
-
-Every problem is an opportunity to improve the system.
-
-Do not focus on who made the mistake.
-
-Instead, ask:
-
-Why did this happen?
-Which assumption was incorrect?
-Which part of the system was missing?
-How can we prevent similar situations in the future?
-
-The purpose of this playbook is not to assign blame.
-
-It is to continuously improve our research culture.
-
-We appreciate everyone who helps us discover weaknesses in our system, because every issue gives us an opportunity to learn, improve, and build a stronger laboratory.
-
----
-
-## Final Principle
-
-This repository is not a policy manual.
-It is a playbook.
-
-A playbook should help people become better researchers, not simply better followers.
-
----
-
-## Writing Checklist
-
-Before submitting a new document, ask:
-
-- [ ] Does this page answer only one question?
-- [ ] Does it explain Why before How?
-- [ ] Is the principle introduced before the procedure?
-- [ ] Can a new student finish reading it within 10 minutes?
-- [ ] Would an AI Research Coach understand this page?
-- [ ] Can this page be simplified further?
-- [ ] Would this page still be useful five years from now?
+> **Every document should make research easier to understand, reproduce, and continue.**
