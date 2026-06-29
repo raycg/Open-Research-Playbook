@@ -1,64 +1,119 @@
-# Getting Started
+## Appendix A — Research Assignment
 
-> **How should a new researcher start?**
-
-This guide helps new researchers become productive during their first week.
-
----
-
-## Why?
-
-Your goal during the first week is **not** to start new research.
-
-It is to:
-
-* Understand the existing research.
-* Reproduce one experimental result.
-* Become ready to contribute.
+> **Who is responsible for this research?**
+>
+> This template records the initial assignment of a research task.
+>
+> It defines the research scope, expected deliverables, and responsibilities before the research begins.
 
 ---
 
-## What?
+### Why?
 
-### First Week Roadmap
+Every research project should have a clearly identified researcher.
 
-| Step | Read                                                         | Outcome                                   |
-| ---- | ------------------------------------------------------------ | ----------------------------------------- |
-| 1    | [README.md](../README.md)                                    | Understand the repository.                |
-| 2    | [Research Assignment](../templates/A-research-assignment.md) | Understand your research topic and goals. |
-| 3    | [Research Playbook](02-research-playbook.md)                 | Learn the daily research workflow.        |
-| 4    | Reproduce the Minimum Reproducible Result (MRR)              | Become ready to contribute.               |
+Research assignment is not about ownership.
 
-### First Week Checklist
+It is about responsibility.
 
-* [ ] Read the assigned thesis, paper, README, and design documents.
-* [ ] Access the laboratory GitHub, Overleaf, and pCloud.
-* [ ] Clone the research repository.
-* [ ] Reproduce the Minimum Reproducible Result (MRR).
-* [ ] Submit one **[Daily Note](../templates/G-daily-note.md)**.
-* [ ] Record one **[Meeting Note](../templates/F-meeting-notes.md)**.
-* [ ] Review your work using the **[AI Daily Self-review Prompt](../templates/E-ai-daily-self-review-prompt.md)**.
+A clear assignment helps everyone understand:
+- What research is being conducted.
+- Who is responsible for the research.
+- What outcomes are expected.
+- When knowledge transfer will eventually be required.
+
+Research assignment is therefore the first step of the research lifecycle.
 
 ---
 
-## Where?
+### Research Information
 
-### Related Documents
-
-* [README.md](../README.md)
-* [01-research-philosophy.md](01-research-philosophy.md)
-* [02-research-playbook.md](02-research-playbook.md)
-* [10-knowledge-transfer.md](10-knowledge-transfer.md)
-
-### Related Templates
-
-* [A-research-assignment.md](../templates/A-research-assignment.md)
-* [F-meeting-notes.md](../templates/F-meeting-notes.md)
-* [G-daily-note.md](../templates/G-daily-note.md)
-* [E-ai-daily-self-review-prompt.md](../templates/E-ai-daily-self-review-prompt.md)
+| Item                     | Description |
+| ------------------------ | ----------- |
+| Research Title           |             |
+| Student                  |             |
+| Student ID               |             |
+| Advisor                  |             |
+| Start Date               |             |
+| Expected Completion Date |             |
 
 ---
 
-## Final Message
+### Research Scope
 
-> **Understand the research. Reproduce one result. Then start contributing.**
+Describe the scope of this research, including:
+- Research objectives
+- Background
+- System boundaries
+- Expected contributions
+
+---
+
+### Expected Deliverables
+
+Check all expected research outcomes.
+- [ ] Literature Review
+- [ ] Design Documents
+- [ ] Source Code
+- [ ] Experimental Results
+- [ ] Dataset
+- [ ] Documentation
+- [ ] User Manual
+- [ ] Thesis
+- [ ] Paper
+- [ ] Presentation Slides
+- [ ] Other:
+
+---
+
+### Initial Research Plan
+
+Briefly describe:
+- Research objectives
+- Expected milestones
+- Major risks
+- Initial verification plan
+
+---
+
+### Responsibilities
+
+#### Student
+
+The assigned student is responsible for:
+- Conducting the research.
+- Maintaining documentation.
+- Recording research progress.
+- Producing reproducible results.
+- Completing knowledge transfer before leaving.
+
+---
+
+#### Advisor
+
+The advisor is responsible for:
+- Providing research guidance.
+- Reviewing research progress.
+- Supporting major research decisions.
+- Reviewing final knowledge transfer.
+
+---
+
+### Assignment Confirmation
+
+By signing this document, both parties acknowledge the research assignment and responsibilities described above.
+
+| Role    | Name | Signature | Date |
+| ------- | ---- | --------- | ---- |
+| Student |      |           |      |
+| Advisor |      |           |      |
+
+---
+
+### Final Note
+
+Research assignment is not the beginning of ownership.
+
+It is the beginning of responsibility.
+
+Every research assignment should ultimately enable the next researcher.
