@@ -9,11 +9,12 @@ This document defines the standard research workflow used in the laboratory.
 ## Why?
 
 Good research should be:
+- Planned before action.
+- Verified with evidence.
+- Documented precisely.
+- Transferable to the next researcher.
 
-* Planned before action.
-* Verified with evidence.
-* Documented clearly.
-* Transferable to the next researcher.
+Document **only what is essential** for reproducibility and continuity.
 
 ---
 
