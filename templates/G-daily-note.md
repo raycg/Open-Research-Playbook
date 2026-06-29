@@ -29,7 +29,9 @@ Define one-month goals and weekly milestones.
 ---
 
 ## Plan
-Daily tasks should support one of the weekly milestones.
+Daily tasks should come from either:
+- A weekly milestone under the short-term goal, or
+- An action item recorded in the latest [Meeting Notes](F-meeting-notes.md)
 
 | Task | Expected Deliverable | Estimated Time | Evidence (Hyperlink) |
 | ---- | -------------------- | -------------- | -------------------- |
