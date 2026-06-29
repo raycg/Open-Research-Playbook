@@ -2,7 +2,7 @@
 
 > **Can you understand, reproduce, and continue this research?**
 
-This report is completed by the incoming researcher after reviewing the research package prepared using the **[Knowledge Transfer Checklist](B-knowledge-transfer-checklist.md)**.
+This report is completed by the incoming researcher to verify whether the research can be independently understood, reproduced, and continued.
 
 ---
 
@@ -10,11 +10,9 @@ This report is completed by the incoming researcher after reviewing the research
 
 Research is complete only when knowledge can be transferred to the next researcher.
 
-Verification confirms whether the incoming researcher can:
+Verification should not begin with the source code or research package.
 
-* Understand the research contribution.
-* Reproduce the experimental results.
-* Continue the research independently.
+Instead, the incoming researcher should first understand the research from the **defense slides** and **paper**, then verify whether the reported contributions can be reproduced.
 
 ---
 
@@ -31,111 +29,86 @@ Verification confirms whether the incoming researcher can:
 
 ---
 
-## 1. Research Contribution
+## 1. Research Understanding (Think)
 
-Read the thesis or paper and identify the main research contributions.
+Read the **defense slides** and **paper** only.
+
+Do **not** read the source code or the complete research package at this stage.
+
+Identify the research contributions and define how each contribution should be verified.
+
+| Contribution | Proposed Test Case (TC) | Verification Metric |
+| ------------ | ----------------------- | ------------------- |
+|              |                         |                     |
+|              |                         |                     |
+|              |                         |                     |
+
+---
+
+## 2. Test Case Verification (Verify)
+
+Compare your proposed test cases with the experimental results presented in the defense slides and paper.
 
 For each contribution:
+- Identify the corresponding figure(s) or table(s).
+- Explain why the figure or table verifies the contribution.
+- Determine whether your proposed test case is sufficient.
 
-* **Think** — Define how the contribution should be verified.
-* **Verify** — Identify the corresponding experimental evidence.
-* **Document** — Reproduce the experiment and record the results.
-* **Transfer** — Propose possible extensions or additional experiments.
-
-| Contribution | Verification Metric (Think) | Expected Experimental Result (Verify) | Reproduced Result (Document) | Possible Extensions (Transfer) |
-| ------------ | --------------------------- | ------------------------------------- | ---------------------------- | ------------------------------ |
-|              |                             |                                       |                              |                                |
-|              |                             |                                       |                              |                                |
-|              |                             |                                       |                              |                                |
+| Test Case | Related Figure / Table | Expected Experimental Result | Match      |
+| --------- | ---------------------- | ---------------------------- | ---------- |
+|           |                        |                              | ☐ Yes ☐ No |
+|           |                        |                              | ☐ Yes ☐ No |
+|           |                        |                              | ☐ Yes ☐ No |
 
 ---
 
-## 2. Test Case Definition
+## 3. Minimum Reproducible Result (MRR) (Document)
 
-Define the test cases required to verify the research.
+Use the transferred research package prepared using the **[Knowledge Transfer Checklist](B-knowledge-transfer-checklist.md)** to reproduce the **Experimental Results** presented in the paper or thesis.
 
-Test cases should include two categories.
-
-### Category 1 — Proposed Method
-
-Verify the relationship between:
-
-* Design document
-* Flowchart
-* Core modules
-* Source code
-
-For each core module, identify:
-
-* Module function
-* Verification procedure
-* Expected output
-
-### Category 2 — Experimental Results (MRR)
-
-The **Experimental Results** section of the thesis or paper should be reproducible.
-
-The **Experimental Results** section of the defense slides is considered the **Minimum Reproducible Result (MRR)**.
-
-For each figure or table:
-
-* Reproduce the experimental data.
-* Regenerate the figure or table.
-* Compare with the published result.
-
-| Test Case ID | Category            | Target         | Expected Result | Evidence |
-| ------------ | ------------------- | -------------- | --------------- | -------- |
-| TC-PM-01     | Proposed Method     |                |                 |          |
-| TC-PM-02     | Proposed Method     |                |                 |          |
-| TC-ER-01     | Experimental Result | Figure / Table |                 |          |
-| TC-ER-02     | Experimental Result | Figure / Table |                 |          |
+The **Experimental Results** section in the defense slides is considered the **Minimum Reproducible Result (MRR)**.
 
 ---
 
-## 3. Test Case Results
+### Test Case Results
 
-Execute each test case and record the results.
-
-| Test Case ID | Reproduced Result | Difference | Status                  | Evidence |
-| ------------ | ----------------- | ---------- | ----------------------- | -------- |
-|              |                   |            | ☐ Pass ☐ Fail ☐ Blocked |          |
-|              |                   |            | ☐ Pass ☐ Fail ☐ Blocked |          |
-|              |                   |            | ☐ Pass ☐ Fail ☐ Blocked |          |
-
----
-
-## 4. Minimum Reproducible Result (MRR)
-
-Summarize the verification results.
-
-### Test Case Summary
-
-| Item                           | Count |
-| ------------------------------ | ----: |
-| Total Test Cases               |       |
-| Proposed Method Test Cases     |       |
-| Experimental Result Test Cases |       |
-| Passed Test Cases              |       |
-| Failed Test Cases              |       |
-| Blocked Test Cases             |       |
-
----
-
-### Overall Verification
-
-Confirm the following.
-
-* [ ] I understand the research contribution.
-* [ ] I identified the relationship between the design document, core modules, and source code.
-* [ ] I reproduced the required experimental results.
-* [ ] I regenerated the required figures and tables.
-* [ ] I understand the current limitations.
-* [ ] I am ready to continue the research.
+| Test Case ID | Category            | Target         | Status                  | Evidence |
+| ------------ | ------------------- | -------------- | ----------------------- | -------- |
+|              | Proposed Method     |                | ☐ Pass ☐ Fail ☐ Blocked |          |
+|              | Proposed Method     |                | ☐ Pass ☐ Fail ☐ Blocked |          |
+|              | Experimental Result | Figure / Table | ☐ Pass ☐ Fail ☐ Blocked |          |
+|              | Experimental Result | Figure / Table | ☐ Pass ☐ Fail ☐ Blocked |          |
 
 Evidence (Hyperlink)
 
 ```text
 ```
+
+---
+
+## 4. Research Continuation (Transfer)
+
+After reproducing the research, identify possible improvements or future work.
+
+| Current Limitation | Possible Improvement | Proposed Test Case |
+| ------------------ | -------------------- | ------------------ |
+|                    |                      |                    |
+|                    |                      |                    |
+|                    |                      |                    |
+
+---
+
+## Verification Summary
+
+Confirm the following.
+
+* [ ] I identified the research contributions independently.
+* [ ] I defined appropriate test cases before reading the research package.
+* [ ] I verified my test cases against the defense slides and paper.
+* [ ] I reproduced the Minimum Reproducible Result (MRR).
+* [ ] I understand the relationship between the research contribution, experimental results, and implementation.
+* [ ] I identified possible future research directions.
+* [ ] I am ready to continue this research independently.
 
 ---
 
@@ -155,4 +128,4 @@ Evidence (Hyperlink)
 
 ## Final Message
 
-> **Verification is complete only when you can explain the research contribution, reproduce the supporting experimental results, and continue the research independently.**
+> **Verification is complete only when you can independently identify the research contributions, define appropriate test cases, reproduce the experimental results, and continue the research.**
