@@ -19,19 +19,28 @@ This repository helps researchers think, verify, document, and transfer research
 
 ---
 
-## What Should I Do Next?
+## What?
 
-Choose the document that matches your current stage.
+### Research Stage Navigation
 
-| Current Stage                           | Read                                                      | Purpose                                             |
-| --------------------------------------- | --------------------------------------------------------- | --------------------------------------------------- |
-| 🆕 **Joining the laboratory**           | [03-getting-started.md](docs/03-getting-started.md)       | Learn how to start your first week.                 |
-| 🔬 **Conducting research**              | [02-research-playbook.md](docs/02-research-playbook.md)   | Learn the daily research workflow.                  |
-| 🎓 **Preparing for knowledge transfer** | [10-knowledge-transfer.md](docs/10-knowledge-transfer.md) | Prepare research knowledge for the next researcher. |
+| Stage | Read |
+|-------|------|
+| 🆕 Joining the laboratory | [Getting Started](docs/03-getting-started.md) |
+| 🔬 Conducting research | [Research Playbook](docs/02-research-playbook.md) |
+| 🎓 Preparing for knowledge transfer | [Knowledge Transfer](docs/10-knowledge-transfer.md) |
+
+### Research Lifecycle Navigation
+
+| Lifecycle | Read |
+|----------|------|
+| 🧠 Think | [Getting Started](docs/03-getting-started.md), [Research Playbook](docs/02-research-playbook.md) |
+| 🔬 Verify | [Daily Report](docs/02-research-playbook.md), [AI Daily Self-review Prompt](templates/E-ai-daily-self-review-prompt.md), [Verification Report](templates/C-verification-report.md) |
+| 📝 Document | [Meeting Notes](templates/F-meeting-notes.md), [Knowledge Transfer Checklist](templates/B-knowledge-transfer-checklist.md) |
+| 🤝 Transfer | [Knowledge Transfer](docs/10-knowledge-transfer.md), [Knowledge Transfer Checklist](templates/B-knowledge-transfer-checklist.md), [Acceptance Form](templates/D-acceptance-form.md) |
 
 ---
 
-## Where Can I Find More Information?
+## Where?
 
 ### Core Documents
 
