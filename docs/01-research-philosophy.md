@@ -1,231 +1,52 @@
-## Research Philosophy
+# Research Philosophy
 
 > **Why do we conduct research this way?**
->
-> This document describes the research philosophy of the Open Research Playbook.
-> It is not a policy manual or a standard operating procedure.
-> Instead, it explains how we think, conduct research, collaborate, and transfer knowledge.
+
+This document describes the core philosophy behind the Open Research Playbook.
 
 ---
 
 ## Why?
 
-Research is not complete when a paper is published.
+Research should create knowledge that others can:
 
-Research is complete only when another researcher can:
+* Understand.
+* Reproduce.
+* Improve.
+* Continue.
 
-- understand it,
-- reproduce it,
-- improve it,
-- and continue it.
-
-Our goal is not only to produce graduates.
-
-Our goal is to cultivate researchers who can think independently, verify rigorously, document clearly, and transfer knowledge effectively.
+Research is complete only when knowledge can be transferred to the next researcher.
 
 ---
 
-## Our Philosophy
+## What?
 
-Our research philosophy consists of four fundamental principles.
+### Core Principles
 
-```text
-Think
-   ↓
-Verify
-   ↓
-Document
-   ↓
-Transfer
-````
+Every research activity follows four principles.
 
-These four principles apply to every research activity, including:
+| Principle       | Goal                                             |
+| --------------- | ------------------------------------------------ |
+| 🧠 **Think**    | Understand the problem before taking action.     |
+| 🔬 **Verify**   | Support conclusions with evidence.               |
+| 📝 **Document** | Preserve only the essential knowledge.           |
+| 🤝 **Transfer** | Enable the next researcher to continue the work. |
 
-* Literature Review
-* Coding
-* Experiment Design
-* Paper Writing
-* Project Development
-* Project Handover
+These principles apply throughout the entire research lifecycle.
 
 ---
 
-## Think
+## Where?
 
-Understand the problem before solving it.
+### Related Documents
 
-Ask yourself:
-
-* What is the real problem?
-* Why does it happen?
-* What assumptions am I making?
-
-Independent thinking is the foundation of research.
-
----
-
-## Verify
-
-Never assume.
-
-Always verify.
-
-Use evidence instead of opinions.
-
-Verification may include:
-
-* Experiments
-* Simulations
-* Measurements
-* Logs
-* Benchmarks
-* Reproducibility
-
-A result that cannot be verified should not be considered complete.
-
----
-
-## Document
-
-Knowledge that is not documented will eventually disappear.
-
-Good documentation should allow another researcher to understand your work without requiring you to explain it.
-
-Good documentation is:
-
-* Clear
-* Complete
-* Reproducible
-* Maintainable
-
----
-
-## Transfer
-
-Research should survive its original author.
-
-Every project should be able to continue after its owner graduates.
-
-Knowledge transfer is therefore part of research rather than an additional task.
-
----
-
-## Seven Rules
-
-### Rule 1
-
-**Ownership begins with verification.**
-
-完成驗證，才代表正式接手。
-
----
-
-### Rule 2
-
-**Responsibility follows ownership.**
-
-承接專案，即承接責任。
-
----
-
-### Rule 3
-
-**Think first. Verify second. Ask AI third. Collaborate last.**
-
-先思考、再驗證、善用 AI、最後再與他人合作。
-
-Before asking others,
-
-* Think.
-* Verify.
-* Use AI for self-review.
-* Collect evidence.
-
-Then ask a high-quality question.
-
----
-
-### Rule 4
-
-**Handover is not training.**
-
-The purpose of handover is to establish reproducibility rather than provide unlimited one-on-one training.
-
-交接不是教學，而是確認研究成果具有可重現性。
-
----
-
-### Rule 5
-
-**Issues must be reproducible.**
-
-Every issue should include:
-
-* Reproduction Steps
-* Error Log
-* Screenshot
-* Environment Information
-
-A problem without evidence is difficult to investigate.
-
----
-
-### Rule 6
-
-**Acceptance completes handover.**
-
-A project handover is complete only after successful verification and acceptance.
-
-交接完成，不是交付文件，而是完成驗收。
-
----
-
-### Rule 7
-
-**If it cannot be reproduced, it has never been completed.**
-
-無法重現的成果，不視為完成。
-
----
-
-## Working with AI
-
-AI is a research coach, not a replacement for independent thinking.
-
-Use AI to:
-
-* review your ideas,
-* analyze logs,
-* improve documentation,
-* organize knowledge,
-* prepare better questions.
-
-Do not use AI to replace:
-
-* critical thinking,
-* experimental verification,
-* scientific judgment.
+* [README.md](../README.md)
+* [00-design-principles.md](00-design-principles.md)
+* [02-research-playbook.md](02-research-playbook.md)
+* [10-knowledge-transfer.md](10-knowledge-transfer.md)
 
 ---
 
 ## Final Message
 
-Research is more than producing results.
-
-Research creates knowledge.
-
-Knowledge creates impact.
-
-Impact lasts only when knowledge can be transferred.
-
----
-
-🧠 Think
-
-🔬 Verify
-
-📝 Document
-
-🤝 Transfer
-
-> **Research is complete only when it can be reproduced and transferred.**
+> **Research creates knowledge. Knowledge creates impact only when it can be understood, reproduced, and continued.**
