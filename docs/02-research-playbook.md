@@ -75,13 +75,14 @@ Use:
 ### 🤝 Transfer
 When research responsibility changes, follow the [Knowledge Transfer Workflow](10-knowledge-transfer.md).
 The workflow includes:
-1. Preparation by the graduating researcher.
-2. Verification by the responsible incoming student.
-3. Acceptance by the advisor.
-The complete [B — Knowledge Transfer Checklist](../templates/B-knowledge-transfer-checklist.md)
-→ [C — Verification Report](../templates/C-verification-report.md)
-→ [D — Graduation Knowledge Transfer Acceptance Form](../templates/D-acceptance-form.md)
-procedure is defined in the [Knowledge Transfer](10-knowledge-transfer.md) document.
+1. Preparation by the graduating researcher: [B — Knowledge Transfer Checklist](../templates/B-knowledge-transfer-checklist.md).
+2. Verification by the responsible incoming student: [C — Verification Report](../templates/C-verification-report.md).
+3. Acceptance by the advisor:[D — Graduation Knowledge Transfer Acceptance Form](../templates/D-acceptance-form.md).
+
+Knowledge transfer is complete only after successful verification and acceptance.
+
+The complete procedure is defined in the [Knowledge Transfer](10-knowledge-transfer.md) document.
+
 
 ## Where?
 ### Related Documents
