@@ -26,9 +26,8 @@ flowchart LR
     X["Knowledge Transfer Complete"]
 
     B --> C --> D --> X
-
-Knowledge transfer is complete only after successful verification and acceptance.
 ```
+Knowledge transfer is complete only after successful verification and acceptance.
 
 ### Minimum Reproducible Result (MRR)
 
