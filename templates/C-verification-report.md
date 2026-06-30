@@ -76,4 +76,4 @@ After reproducing the research, identify possible improvements or future work.
 
 ## Final Message
 
-> **Verification is complete only when you can independently identify the research contributions, define appropriate test cases, reproduce the experimental results, and continue the research.**
+> **This report records the incoming student's verification result. Final acceptance is determined by the advisor.**
