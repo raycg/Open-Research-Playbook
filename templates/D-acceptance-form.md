@@ -48,5 +48,6 @@ has been independently verified and accepted by the advisor.
 
 ## Final Message
 
-> **The graduating researcher may leave only after the advisor confirms
-> that knowledge transfer has been completed successfully.**
+> > **The graduating researcher may leave only after the transfer package
+> is complete, the responsible incoming student has reproduced the MRR,
+> and the advisor has approved the transfer.**
