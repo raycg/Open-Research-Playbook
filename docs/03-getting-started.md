@@ -39,6 +39,12 @@ It is to:
 * [ ] Record one **[Meeting Note](../templates/F-meeting-notes.md)**.
 * [ ] Review your work using the **[AI Daily Self-review Prompt](../templates/E-ai-daily-self-review-prompt.md)**.
 
+### Continuing an Existing Project
+
+A new researcher assigned to continue an existing project should complete
+the [Verification Report](../templates/C-verification-report.md) as the
+responsible incoming student.
+
 ---
 
 ## Where?
