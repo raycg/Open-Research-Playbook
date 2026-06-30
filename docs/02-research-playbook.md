@@ -81,7 +81,8 @@ The workflow includes:
 
 Knowledge transfer is complete only after successful verification and acceptance.
 
-The complete procedure is defined in the [Knowledge Transfer]([Knowledge Transfer Workflow](10-knowledge-transfer.md#knowledge-transfer-workflow)) document.
+The complete procedure is defined in the The complete procedure is defined in the
+[Knowledge Transfer Workflow](10-knowledge-transfer.md#knowledge-transfer-workflow). document.
 
 
 ## Where?
