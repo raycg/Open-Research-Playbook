@@ -22,7 +22,7 @@ has been independently verified and accepted by the advisor.
 | Defense-slide experimental results reproduced | ☐ Yes ☐ No |
 | Repository and research assets accessible | ☐ Yes ☐ No |
 | Remaining work documented | ☐ Yes ☐ No |
-| Incoming student ready to continue | ☐ Yes ☐ No |
+| Responsible incoming student ready to continue | ☐ Yes ☐ No |
 
 ### Advisor Decision
 
