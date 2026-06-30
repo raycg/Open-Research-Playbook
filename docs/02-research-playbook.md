@@ -52,4 +52,6 @@ Record research knowledge using the **[Meeting Notes](../templates/F-meeting-not
 
 ### 🤝 Transfer
 
-Prepare research knowledge following the **[Knowledge Transfer](10-knowledge-transfer.md)** workflow.
+Follow the [Knowledge Transfer Workflow](10-knowledge-transfer.md),
+including preparation by the graduating researcher, verification by the
+responsible incoming student, and acceptance by the advisor.
