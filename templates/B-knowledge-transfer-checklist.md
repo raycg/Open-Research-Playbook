@@ -85,6 +85,10 @@ List every experimental result presented in the final defense slides.
 | Future Work            |      | ☐      |
 | Recommended First Task |      | ☐      |
 
+> **Completing this checklist means that the complete transfer package
+> is ready for verification. It does not mean that knowledge transfer
+> has been accepted.**
+
 ---
 
 ## Where?
