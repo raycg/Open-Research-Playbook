@@ -1,8 +1,9 @@
 # Knowledge Transfer Checklist
 
-> **What should I prepare before knowledge transfer?**
+> **Has the graduating researcher prepared everything required for knowledge transfer?**
 
-This checklist defines the research package that must be prepared before verification.
+This checklist is completed by the graduating researcher before
+verification begins.
 
 ---
 
@@ -15,6 +16,17 @@ Only essential and reproducible research assets should be transferred.
 ---
 
 ## What?
+
+### Transfer Information
+
+| Item | Description |
+|---|---|
+| Thesis Title | |
+| Graduating Researcher | |
+| Responsible Incoming Student | |
+| Advisor | |
+| Final Defense Date | |
+| Transfer Date | |
 
 ### Research Package
 
@@ -41,14 +53,15 @@ Only essential and reproducible research assets should be transferred.
 
 ### Minimum Reproducible Result (MRR)
 
-| Item               | Link | Status |
-| ------------------ | ---- | ------ |
-| MRR Description    |      | ☐      |
-| Environment        |      | ☐      |
-| Configuration      |      | ☐      |
-| Scripts / Commands |      | ☐      |
-| Expected Results   |      | ☐      |
-| Reference Logs     |      | ☐      |
+List every experimental result presented in the final defense slides.
+
+| Slide / Figure / Table | Expected Result | Configuration | Execution Guide | Reference Evidence |
+|---|---|---|---|---|
+| | | | | |
+
+> **Completing this checklist means that the transfer package is ready
+> for verification. It does not mean that knowledge transfer has been accepted.**
+
 
 ---
 
