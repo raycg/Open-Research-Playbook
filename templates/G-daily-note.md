@@ -1,76 +1,116 @@
 # Daily Note
 
-> **What should I record every working day?**
+> **What should I plan, verify, and record every working day?**
 
-This template helps researchers plan, verify, and document daily research activities.
+This template connects short-term goals, daily work, supporting evidence, and the next working day plan.
 
 ---
 
-## Date
+## Why?
+
+Daily research should be guided by measurable goals rather than disconnected activities.
+
+A Daily Note helps researchers:
+
+* Connect daily tasks to weekly milestones or meeting action items.
+* Define measurable deliverables before starting work.
+* Record evidence for completed work.
+* Explain pending tasks and blockers.
+* Prepare the next working day from actual results.
+
+---
+
+## What?
+
+### Date
 
 **Date:** YYYY/MM/DD
 
----
-
-## Short-term Goal
+### Short-term Goal
 
 Define one-month goals and weekly milestones.
 
-* Goal 1: Deliverable
+* Goal 1: Measurable deliverable
 
   * Milestone 1: Deliverable, Due YYYY/MM/DD
   * Milestone 2: Deliverable, Due YYYY/MM/DD
   * Milestone 3: Deliverable, Due YYYY/MM/DD
 
-* Goal 2: Deliverable
+* Goal 2: Measurable deliverable
 
   * Milestone 1: Deliverable, Due YYYY/MM/DD
   * Milestone 2: Deliverable, Due YYYY/MM/DD
   * Milestone 3: Deliverable, Due YYYY/MM/DD
 
----
+### Plan
 
-## Plan
+Each daily task should support a weekly milestone or an action item from the latest [Meeting Notes](F-meeting-notes.md).
 
-Daily tasks should support one of the weekly milestones or action items from the latest [Meeting Notes](F-meeting-notes.md).
+| Priority | Task | Related Milestone or Action Item | Expected Deliverable | Estimated Time | Planned Evidence |
+|---|---|---|---|---|---|
+| P1 | | | | | |
+| P2 | | | | | |
+| P3 | | | | | |
 
-| Priority | Task | Expected Deliverable | Est. Time | Evidence (Hyperlink) |
-| -------- | ---- | -------------------- | --------- | -------------------- |
-| P1       |      |                      |           |                      |
-| P2       |      |                      |           |                      |
-| P3       |      |                      |           |                      |
+Before starting work, confirm:
 
-Guidelines:
+* [ ] Each task supports a milestone or meeting action item.
+* [ ] Each expected deliverable is measurable.
+* [ ] The evidence location has been planned.
 
-* Each task should support a weekly milestone or meeting action item.
-* Each deliverable should be measurable.
-* Plan where the evidence will be recorded before starting the work.
+### Review
 
----
+| Task | Status | Actual Time | Evidence |
+|---|---|---|---|
+| | ☐ Done ☐ Pending ☐ Blocked | | |
+| | ☐ Done ☐ Pending ☐ Blocked | | |
+| | ☐ Done ☐ Pending ☐ Blocked | | |
 
-## Review
+#### Pending Tasks and Blockers
 
-| Task | Status                     | Actual Time | Evidence (Hyperlink) |
-| ---- | -------------------------- | ----------- | -------------------- |
-|      | ☐ Done ☐ Pending ☐ Blocked |             |                      |
-|      | ☐ Done ☐ Pending ☐ Blocked |             |                      |
-|      | ☐ Done ☐ Pending ☐ Blocked |             |                      |
+Complete this table for every Pending or Blocked task.
 
-If a task is **Pending** or **Blocked**, briefly explain why and update the next working day plan.
+| Task | Reason | Required Action or Support |
+|---|---|---|
+| | | |
 
-**Today's biggest lesson**
+#### Today's Biggest Lesson
 
 ```text
+
 ```
+
+### AI Daily Self-review
+
+Review this Daily Note using the [AI Daily Self-review Prompt](E-ai-daily-self-review-prompt.md).
+
+Revise missing evidence, unclear task status, or incomplete blocker information before preparing the next working day plan.
+
+### Next Working Day Plan
+
+Prepare the next working day based on today's review and verified AI feedback.
+
+| Priority | Task | Related Milestone or Action Item | Expected Deliverable |
+|---|---|---|---|
+| P1 | | | |
+| P2 | | | |
+| P3 | | | |
 
 ---
 
-## Next Working Day Plan
+## Where?
 
-Prepare the next working day based on today's review.
+### Related Documents
 
-| Priority | Task | Expected Deliverable |
-| -------- | ---- | -------------------- |
-| P1       |      |                      |
-| P2       |      |                      |
-| P3       |      |                      |
+* [Research Playbook](../docs/02-research-playbook.md)
+
+### Related Templates
+
+* [Meeting Notes](F-meeting-notes.md)
+* [AI Daily Self-review Prompt](E-ai-daily-self-review-prompt.md)
+
+---
+
+## Final Message
+
+> **Plan before acting, record evidence after working, and let today's results shape the next working day.**
