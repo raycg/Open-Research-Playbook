@@ -34,7 +34,7 @@ This repository helps researchers think, verify, document, and transfer research
 | Lifecycle | Read |
 |----------|------|
 | 🧠 Think | [Getting Started](docs/03-getting-started.md), [Research Playbook](docs/02-research-playbook.md) |
-| 🔬 Verify | [Daily Report](docs/02-research-playbook.md), [AI Daily Self-review Prompt](templates/E-ai-daily-self-review-prompt.md), [Verification Report](templates/C-verification-report.md) |
+| 🔬 Verify | [Daily Note](templates/G-daily-note.md), [AI Daily Self-review Prompt](templates/E-ai-daily-self-review-prompt.md), [Verification Report](templates/C-verification-report.md) |
 | 📝 Document | [Meeting Notes](templates/F-meeting-notes.md), [Knowledge Transfer Checklist](templates/B-knowledge-transfer-checklist.md) |
 | 🤝 Transfer | [Knowledge Transfer Workflow](docs/10-knowledge-transfer.md), [Checklist B](templates/B-knowledge-transfer-checklist.md), [Verification Report C](templates/C-verification-report.md), [Advisor Acceptance D](templates/D-acceptance-form.md) |
 
