@@ -12,7 +12,7 @@ Research is complete only when knowledge can be transferred to the next research
 
 Verification should not begin with the source code or research package.
 
-Instead, the incoming researcher should first understand the research from the **defense slides** and **paper**, then verify whether the reported contributions can be reproduced.
+Instead, the responsible incoming student should first understand the research from the **defense slides** and **paper**, then verify whether the reported contributions can be reproduced.
 
 ---
 
@@ -82,4 +82,5 @@ After reproducing the research, identify possible improvements or future work.
 
 ## Final Message
 
-> **This report records the incoming student's verification result. Final acceptance is determined by the advisor.**
+> **This report records the responsible incoming student's verification
+> result. Final acceptance is determined by the advisor.**
