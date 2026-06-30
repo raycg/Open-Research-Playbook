@@ -1,8 +1,8 @@
 # Verification Report
 
-> **Can you understand, reproduce, and continue this research?**
+> **Can the responsible incoming student independently understand, reproduce, and continue this research?**
 
-This report is completed by the incoming researcher to verify whether the research can be independently understood, reproduced, and continued.
+This report is completed by the responsible incoming student after receiving the transfer package.
 
 ---
 
@@ -29,64 +29,17 @@ Instead, the incoming researcher should first understand the research from the *
 
 ---
 
-## 1. Research Understanding (Think)
+## 1. Minimum Reproducible Result (MRR)
 
-Read the **defense slides** and **paper** only.
+Reproduce every experimental result presented in the final defense slides.
 
-Do **not** read the source code or the complete research package at this stage.
-
-Identify the research contributions and define how each contribution should be verified.
-
-| Contribution | Proposed Test Case (TC) | Verification Metric |
-| ------------ | ----------------------- | ------------------- |
-|              |                         |                     |
-|              |                         |                     |
-|              |                         |                     |
+| Slide / Figure / Table | Expected Result | Reproduced Result | Evidence | Status |
+|---|---|---|---|---|
+| | | | | ☐ Pass ☐ Fail ☐ Blocked |
 
 ---
 
-## 2. Test Case Verification (Verify)
-
-Compare your proposed test cases with the experimental results presented in the defense slides and paper.
-
-For each contribution:
-- Identify the corresponding figure(s) or table(s).
-- Explain why the figure or table verifies the contribution.
-- Determine whether your proposed test case is sufficient.
-
-| Test Case | Related Figure / Table | Expected Experimental Result | Match      |
-| --------- | ---------------------- | ---------------------------- | ---------- |
-|           |                        |                              | ☐ Yes ☐ No |
-|           |                        |                              | ☐ Yes ☐ No |
-|           |                        |                              | ☐ Yes ☐ No |
-
----
-
-## 3. Minimum Reproducible Result (MRR) (Document)
-
-Use the transferred research package prepared using the **[Knowledge Transfer Checklist](B-knowledge-transfer-checklist.md)** to reproduce the **Experimental Results** presented in the paper or thesis.
-
-The **Experimental Results** section in the defense slides is considered the **Minimum Reproducible Result (MRR)**.
-
----
-
-### Test Case Results
-
-| Test Case ID | Category            | Target         | Status                  | Evidence |
-| ------------ | ------------------- | -------------- | ----------------------- | -------- |
-|              | Proposed Method     |                | ☐ Pass ☐ Fail ☐ Blocked |          |
-|              | Proposed Method     |                | ☐ Pass ☐ Fail ☐ Blocked |          |
-|              | Experimental Result | Figure / Table | ☐ Pass ☐ Fail ☐ Blocked |          |
-|              | Experimental Result | Figure / Table | ☐ Pass ☐ Fail ☐ Blocked |          |
-
-Evidence (Hyperlink)
-
-```text
-```
-
----
-
-## 4. Research Continuation (Transfer)
+## 2. Research Continuation
 
 After reproducing the research, identify possible improvements or future work.
 
@@ -98,17 +51,12 @@ After reproducing the research, identify possible improvements or future work.
 
 ---
 
-## Verification Summary
+## Verification Conclusion
 
-Confirm the following.
-
-* [ ] I identified the research contributions independently.
-* [ ] I defined appropriate test cases before reading the research package.
-* [ ] I verified my test cases against the defense slides and paper.
-* [ ] I reproduced the Minimum Reproducible Result (MRR).
-* [ ] I understand the relationship between the research contribution, experimental results, and implementation.
-* [ ] I identified possible future research directions.
-* [ ] I am ready to continue this research independently.
+- [ ] All defense-slide experimental results were reproduced.
+- [ ] The research repository and assets are accessible.
+- [ ] I understand how the results relate to the research contributions.
+- [ ] I am ready to continue the research.
 
 ---
 
