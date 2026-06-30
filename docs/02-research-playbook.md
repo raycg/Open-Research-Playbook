@@ -46,3 +46,53 @@ flowchart TD
     A --> N
     N --> P
     N --> M
+```
+
+### 🧠 Think
+Before starting work:
+1. Review the current milestone and latest meeting action items.
+2. Define today’s tasks and expected deliverables.
+3. Decide what evidence must be recorded.
+4. Identify possible risks or blockers.
+5. Record the plan in the [Daily Note](../templates/G-daily-note.md).
+
+### 🔬 Verify
+Before finishing work:
+1. Compare completed work with the morning plan.
+2. Link each conclusion to supporting evidence.
+3. Mark unfinished tasks as Pending or Blocked.
+4. Explain unexpected results and differences.
+5. Review the Daily Note using the [AI Daily Self-review Prompt](../templates/E-ai-daily-self-review-prompt.md).
+AI may identify missing evidence or unclear reasoning, but it must not invent evidence or replace the researcher’s judgment.
+
+### 📝 Document
+Record only the information required for another researcher to understand, reproduce, or continue the work.
+Use:
+- The [Daily Note](../templates/G-daily-note.md) for daily plans, results, and evidence.
+- [Meeting Notes](../templates/F-meeting-notes.md) for decisions and measurable action items.
+- The research repository for code, configurations, logs, and reproducible results.
+
+### 🤝 Transfer
+When research responsibility changes, follow the [Knowledge Transfer Workflow](10-knowledge-transfer.md).
+The workflow includes:
+1. Preparation by the graduating researcher.
+2. Verification by the responsible incoming student.
+3. Acceptance by the advisor.
+The complete [B — Knowledge Transfer Checklist](../templates/B-knowledge-transfer-checklist.md)
+→ [C — Verification Report](../templates/C-verification-report.md)
+→ [D — Graduation Knowledge Transfer Acceptance Form](../templates/D-acceptance-form.md)
+procedure is defined in the [Knowledge Transfer](10-knowledge-transfer.md) document.
+
+## Where?
+### Related Documents
+- [Research Philosophy](01-research-philosophy.md)
+- [Getting Started](03-getting-started.md)
+- [Knowledge Transfer](10-knowledge-transfer.md)
+
+### Related Templates
+- [Daily Note](../templates/G-daily-note.md)
+- [Meeting Notes](../templates/F-meeting-notes.md)
+- [AI Daily Self-review Prompt](../templates/E-ai-daily-self-review-prompt.md)
+
+## Final Message
+**Think before acting, verify with evidence, document what matters**, and transfer knowledge so the next researcher can continue.
