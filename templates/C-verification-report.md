@@ -23,14 +23,20 @@ Instead, the incoming researcher should first understand the research from the *
 | Item                | Description |
 | ------------------- | ----------- |
 | Research Title      |             |
-| Outgoing Researcher |             |
-| Incoming Researcher |             |
+| Graduating Researcher | |
+| Responsible Incoming Student | |
 | Verification Date   |             |
 
 ---
+## 1. Research Understanding
 
-## 1. Minimum Reproducible Result (MRR)
+| Research Contribution | Related Slide / Figure / Table | Expected Evidence |
+|---|---|---|
+| | | |
 
+---
+
+## 2. Minimum Reproducible Result (MRR)
 Reproduce every experimental result presented in the final defense slides.
 
 | Slide / Figure / Table | Expected Result | Reproduced Result | Evidence | Status |
@@ -39,7 +45,7 @@ Reproduce every experimental result presented in the final defense slides.
 
 ---
 
-## 2. Research Continuation
+## 3. Research Continuation
 
 After reproducing the research, identify possible improvements or future work.
 
