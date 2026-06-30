@@ -14,9 +14,9 @@ AI may help identify:
 
 * Tasks that do not support a milestone or meeting action item.
 * Deliverables that are not measurable.
-* Conclusions that lack supporting evidence.
+* Completed tasks that lack supporting evidence.
 * Pending or blocked tasks without a clear explanation.
-* Next-day plans that do not follow from today's results.
+* Information needed to prepare the next working day plan.
 
 AI must not invent evidence, assume unreported results, or decide whether a research conclusion is correct.
 
@@ -27,7 +27,7 @@ AI must not invent evidence, assume unreported results, or decide whether a rese
 ### How to Use
 
 1. Complete the **Review** section of the [Daily Note](G-daily-note.md).
-2. Paste the Daily Note below the prompt.
+2. Paste the Daily Note from **Date** through **Today's biggest lesson** below the prompt.
 3. Ask AI to return the review using the required output format.
 4. Check every AI comment against the original evidence.
 5. Revise the Daily Note and prepare the **Next Working Day Plan**.
@@ -53,47 +53,56 @@ Review the Daily Note using these criteria:
      when no measurable output is provided.
 
 3. Evidence
-   - Does each completed task include a working evidence reference?
-   - Does the evidence described support the reported result?
-   - If the evidence cannot be accessed, state that it is unverified.
+   - Does each Done task include an evidence hyperlink?
+   - If evidence contents are included or accessible, do they support the
+     task status and expected deliverable?
+   - If only a link is provided and it cannot be accessed, state that the
+     evidence is present but its contents were not verified.
 
-4. Reasoning
-   - Are observations, assumptions, interpretations, and conclusions
-     clearly distinguished?
-   - Identify conclusions that are stronger than the reported evidence.
+4. Daily review
+   - Does every planned task appear in the Review table?
+   - Are the selected status, actual time, and evidence complete?
+   - Is "Today's biggest lesson" specific and consistent with the review?
 
 5. Pending tasks and blockers
    - Does each Pending or Blocked task explain why it was not completed?
-   - Is the next action or required support clearly stated?
+   - Identify the next action or required support that should be considered
+     when preparing the Next Working Day Plan.
 
 6. Research continuity
    - Could another researcher understand what was attempted, what happened,
      where the evidence is stored, and what should happen next?
 
-7. Next working day plan
-   - Does the plan follow from today's results, pending tasks, and blockers?
-   - Are priorities and expected deliverables clear?
+7. Input for the next working day plan
+   - Which Pending or Blocked tasks require follow-up?
+   - Which evidence gaps or unfinished deliverables should be prioritized?
+   - Do not create the final plan; provide recommendations for the researcher.
 
 Return the review in exactly this format:
 
 ## Overall Assessment
-Choose one: Ready to revise / Missing essential information
+Choose one: Ready for next-day planning / Revision required
 Give a two-sentence explanation.
 
 ## Missing or Unverified Evidence
 List each affected task and the evidence that is missing or cannot be verified.
 Write "None identified" if applicable.
 
-## Unclear Reasoning or Conclusions
-List each issue and explain what must be clarified.
+## Daily Review Issues
+List missing task reviews, inconsistent statuses, or unclear lessons.
 Write "None identified" if applicable.
 
 ## Deliverable and Planning Issues
-List vague deliverables, unexplained blockers, or next-day planning problems.
+List vague deliverables and unexplained Pending or Blocked tasks.
 Write "None identified" if applicable.
 
 ## Required Revisions
 Provide a numbered list of the smallest concrete revisions needed.
+
+## Recommendations for the Next Working Day Plan
+List only follow-up tasks supported by the Daily Note. For each recommendation,
+identify the source task or blocker. Do not create evidence or claim a priority
+that is not supported by the Daily Note.
 
 ## Questions for the Researcher
 Ask only questions that must be answered by the researcher.
@@ -102,7 +111,7 @@ Do not rewrite experimental results as facts.
 Do not create evidence or links.
 Do not mark the research as verified.
 
-Daily Note:
+Daily Note (Date through Today's biggest lesson):
 
 [PASTE THE COMPLETED DAILY NOTE HERE]
 ```
