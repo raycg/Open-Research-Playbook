@@ -59,10 +59,6 @@ List every experimental result presented in the final defense slides.
 |---|---|---|---|---|
 | | | | | |
 
-> **Completing this checklist means that the transfer package is ready
-> for verification. It does not mean that knowledge transfer has been accepted.**
-
-
 ---
 
 ### Research Assets
@@ -85,9 +81,9 @@ List every experimental result presented in the final defense slides.
 | Future Work            |      | ☐      |
 | Recommended First Task |      | ☐      |
 
-> **Completing this checklist means that the complete transfer package
-> is ready for verification. It does not mean that knowledge transfer
-> has been accepted.**
+> **Completing this checklist means that the transfer package is ready
+> for verification. It does not mean that knowledge transfer has been accepted.**
+
 
 ---
 
