@@ -27,17 +27,17 @@ It is to:
 | 1    | [README.md](../README.md)                                    | Understand the repository.                |
 | 2    | [Research Assignment](../templates/A-research-assignment.md) | Understand your research topic and goals. |
 | 3    | [Research Playbook](02-research-playbook.md)                 | Learn the daily research workflow.        |
-| 4    | Reproduce the Minimum Reproducible Result (MRR)              | Become ready to contribute.               |
+| 4 | Reproduce one reference experimental result | Become ready to contribute. |
 
 ### First Week Checklist
 
-* [ ] Read the assigned thesis, paper, README, and design documents.
-* [ ] Access the laboratory GitHub, Overleaf, and pCloud.
-* [ ] Clone the research repository.
-* [ ] Reproduce the Minimum Reproducible Result (MRR).
-* [ ] Submit one **[Daily Note](../templates/G-daily-note.md)**.
-* [ ] Record one **[Meeting Note](../templates/F-meeting-notes.md)**.
-* [ ] Review your work using the **[AI Daily Self-review Prompt](../templates/E-ai-daily-self-review-prompt.md)**.
+- [ ] Read the assigned thesis, paper, README, and design documents.
+- [ ] Access the laboratory GitHub, Overleaf, and pCloud.
+- [ ] Clone the research repository.
+- [ ] Reproduce one reference experimental result.
+- [ ] Submit one **[Daily Note](../templates/G-daily-note.md)**.
+- [ ] Record one **[Meeting Note](../templates/F-meeting-notes.md)**.
+- [ ] Review your work using the **[AI Daily Self-review Prompt](../templates/E-ai-daily-self-review-prompt.md)**.
 
 ### Continuing an Existing Project
 
