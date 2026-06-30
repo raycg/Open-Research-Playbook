@@ -1,119 +1,126 @@
-## Appendix A — Research Assignment
+# Research Assignment
 
-> **Who is responsible for this research?**
->
-> This template records the initial assignment of a research task.
->
-> It defines the research scope, expected deliverables, and responsibilities before the research begins.
+> **Who is responsible for this research, and what are they expected to deliver?**
+
+This template records the initial assignment, scope, deliverables, and responsibilities of a research project.
 
 ---
 
-### Why?
+## Why?
 
-Every research project should have a clearly identified researcher.
+Every research project should have a clearly identified responsible researcher.
 
-Research assignment is not about ownership.
-
-It is about responsibility.
+Research assignment is not about ownership. It is about responsibility.
 
 A clear assignment helps everyone understand:
-- What research is being conducted.
-- Who is responsible for the research.
-- What outcomes are expected.
-- When knowledge transfer will eventually be required.
 
-Research assignment is therefore the first step of the research lifecycle.
+* What research will be conducted.
+* Who is responsible for the research.
+* What outcomes are expected.
+* How progress will be verified.
+* When knowledge transfer will be required.
 
 ---
+
+## What?
 
 ### Research Information
 
-| Item                     | Description |
-| ------------------------ | ----------- |
-| Research Title           |             |
-| Student                  |             |
-| Student ID               |             |
-| Advisor                  |             |
-| Start Date               |             |
-| Expected Completion Date |             |
-
----
+| Item | Description |
+|---|---|
+| Research Title | |
+| Assigned Student | |
+| Student ID | |
+| Advisor | |
+| Start Date | |
+| Expected Completion Date | |
 
 ### Research Scope
 
-Describe the scope of this research, including:
-- Research objectives
-- Background
-- System boundaries
-- Expected contributions
-
----
+| Item | Description |
+|---|---|
+| Research Objective | |
+| Background | |
+| System Boundary | |
+| Expected Contribution | |
+| Out of Scope | |
 
 ### Expected Deliverables
 
-Check all expected research outcomes.
-- [ ] Literature Review
-- [ ] Design Documents
-- [ ] Source Code
-- [ ] Experimental Results
-- [ ] Dataset
-- [ ] Documentation
-- [ ] User Manual
-- [ ] Thesis
-- [ ] Paper
-- [ ] Presentation Slides
-- [ ] Other:
+Select all required research outcomes.
 
----
+* [ ] Literature review
+* [ ] Design document
+* [ ] Source code
+* [ ] Experimental results
+* [ ] Dataset
+* [ ] Documentation
+* [ ] User manual
+* [ ] Thesis
+* [ ] Paper or manuscript
+* [ ] Presentation or defense slides
+* [ ] Other:
 
 ### Initial Research Plan
 
-Briefly describe:
-- Research objectives
-- Expected milestones
-- Major risks
-- Initial verification plan
+| Milestone | Measurable Deliverable | Due Date | Verification Evidence |
+|---|---|---|---|
+| | | | |
+| | | | |
+| | | | |
 
----
+### Major Risks and Unknowns
+
+| Risk or Unknown | Expected Impact | Initial Response |
+|---|---|---|
+| | | |
 
 ### Responsibilities
 
-#### Student
+#### Assigned Student
 
 The assigned student is responsible for:
-- Conducting the research.
-- Maintaining documentation.
-- Recording research progress.
-- Producing reproducible results.
-- Completing knowledge transfer before leaving.
 
----
+* Understanding the research problem before implementation.
+* Maintaining research documentation.
+* Recording progress and supporting evidence.
+* Producing reproducible results.
+* Completing knowledge transfer when responsibility changes.
 
 #### Advisor
 
 The advisor is responsible for:
-- Providing research guidance.
-- Reviewing research progress.
-- Supporting major research decisions.
-- Reviewing final knowledge transfer.
 
----
+* Providing research guidance.
+* Reviewing progress and major decisions.
+* Confirming expected contributions and deliverables.
+* Reviewing final knowledge transfer when required.
 
 ### Assignment Confirmation
 
-By signing this document, both parties acknowledge the research assignment and responsibilities described above.
-
-| Role    | Name | Signature | Date |
-| ------- | ---- | --------- | ---- |
-| Student |      |           |      |
-| Advisor |      |           |      |
+| Role | Name | Signature | Date |
+|---|---|---|---|
+| Assigned Student | | | |
+| Advisor | | | |
 
 ---
 
-### Final Note
+## Where?
 
-Research assignment is not the beginning of ownership.
+### Related Documents
 
-It is the beginning of responsibility.
+* [Research Philosophy](../docs/01-research-philosophy.md)
+* [Research Playbook](../docs/02-research-playbook.md)
+* [Knowledge Transfer](../docs/10-knowledge-transfer.md)
 
-Every research assignment should ultimately enable the next researcher.
+### Related Templates
+
+* [Meeting Notes](F-meeting-notes.md)
+* [Daily Note](G-daily-note.md)
+* [Knowledge Transfer Checklist](B-knowledge-transfer-checklist.md)
+
+---
+
+## Final Message
+
+> **A research assignment begins with clear responsibility, measurable deliverables, and a plan for reproducible results.**
