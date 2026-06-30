@@ -88,7 +88,7 @@ Revise missing evidence, unclear task status, or incomplete blocker information 
 
 ### Next Working Day Plan
 
-Prepare the next working day based on today's review and verified AI feedback.
+Prepare the next working day based on today's review and researcher-reviewed AI feedback.
 
 | Priority | Task | Related Milestone or Action Item | Expected Deliverable |
 |---|---|---|---|
