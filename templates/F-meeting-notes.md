@@ -74,11 +74,9 @@ Avoid vague activities:
 * Try the code.
 * Check the issue.
 
-| Task | Owner | Measurable Deliverable | Due Date |
-| ---- | ----- | ---------------------- | -------- |
-|      |       |                        |          |
-|      |       |                        |          |
-|      |       |                        |          |
+| Task | Owner | Measurable Deliverable | Due Date | Evidence |
+|---|---|---|---|---|
+| | | | | |
 
 ---
 
