@@ -30,6 +30,9 @@ has been independently verified and accepted by the advisor.
 - [ ] Conditionally Approved — corrections are required before departure.
 - [ ] Not Approved — knowledge transfer is incomplete.
 
+Conditional approval does not authorize departure until the advisor
+confirms that all required corrections are complete.
+
 ### Required Corrections
 
 | Correction | Responsible Person | Due Date | Status |
