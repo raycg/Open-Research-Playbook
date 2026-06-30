@@ -62,6 +62,7 @@ This repository helps researchers think, verify, document, and transfer research
 | [D-acceptance-form.md](templates/D-acceptance-form.md)                           | Confirm successful knowledge transfer.                   |
 | [E-ai-daily-self-review-prompt.md](templates/E-ai-daily-self-review-prompt.md)   | AI-assisted daily self-review.                           |
 | [F-meeting-notes.md](templates/F-meeting-notes.md)                               | Record meeting discussions, decisions, and action items. |
+| [G-daily-note.md](templates/G-daily-note.md) | Plan and review daily research activities. |
 
 ### Examples *(Coming Soon)*
 
