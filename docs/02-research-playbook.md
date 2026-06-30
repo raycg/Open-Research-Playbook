@@ -26,7 +26,7 @@ Every working day should help researchers:
 | Lifecycle | Daily Practice | Output |
 |---|---|---|
 | 🧠 Think | Prepare the morning plan in the [Daily Note](../templates/G-daily-note.md) | Daily Plan |
-| 🔬 Verify | Complete the evening review and use the [AI Daily Self-review Prompt](../templates/E-ai-daily-self-review-prompt.md) | Verified Daily Report |
+| 🔬 Verify | Complete the evening review and use the [AI Daily Self-review Prompt](../templates/E-ai-daily-self-review-prompt.md) | Reviewed Daily Note |
 | 📝 Document | Record decisions and evidence in [Meeting Notes](../templates/F-meeting-notes.md) | Reproducible Knowledge |
 | 🤝 Transfer | Follow the [Knowledge Transfer Workflow](10-knowledge-transfer.md) | Research Continuity |
 
